@@ -1,0 +1,1297 @@
+;id;sentence1;sentence2;label;predicted_relation
+0;BARBARA;All Gabonese are Carpenters, and all Element collectors are Gabonese.;All Element collectors are Carpenters.;entailment;Entailment.
+1;BARBARA;All Gabonese are Cashiers, and all Element collectors are Gabonese.;All Element collectors are Cashiers.;entailment;Entailment.
+2;BARBARA;All Gabonese are Clergys, and all Element collectors are Gabonese.;All Element collectors are Clergys.;entailment;Entailment.
+3;BARBARA;All Georgians are Carpenters, and all Element collectors are Georgians.;All Element collectors are Carpenters.;entailment;Entailment.
+4;BARBARA;All Georgians are Cashiers, and all Element collectors are Georgians.;All Element collectors are Cashiers.;entailment;Entailment.
+5;BARBARA;All Georgians are Clergys, and all Element collectors are Georgians.;All Element collectors are Clergys.;entailment;Entailment.
+6;BARBARA;All Germans are Carpenters, and all Element collectors are Germans.;All Element collectors are Carpenters.;entailment;Entailment.
+7;BARBARA;All Germans are Cashiers, and all Element collectors are Germans.;All Element collectors are Cashiers.;entailment;Entailment.
+8;BARBARA;All Germans are Clergys, and all Element collectors are Germans.;All Element collectors are Clergys.;entailment;Entailment.
+9;BARBARA;All Haitians are Carpenters, and all Element collectors are Haitians.;All Element collectors are Carpenters.;entailment;Entailment.
+10;BARBARA;All Haitians are Cashiers, and all Element collectors are Haitians.;All Element collectors are Cashiers.;entailment;Entailment.
+11;BARBARA;All Haitians are Clergys, and all Element collectors are Haitians.;All Element collectors are Clergys.;entailment;Entailment.
+12;BARBARA;All Gabonese are Carpenters, and all Films collectors are Gabonese.;All Films collectors are Carpenters.;entailment;Contradiction.
+13;BARBARA;All Gabonese are Cashiers, and all Films collectors are Gabonese.;All Films collectors are Cashiers.;entailment;Entailment.
+14;BARBARA;All Gabonese are Clergys, and all Films collectors are Gabonese.;All Films collectors are Clergys.;entailment;Entailment.
+15;BARBARA;All Georgians are Carpenters, and all Films collectors are Georgians.;All Films collectors are Carpenters.;entailment;Contradiction.
+16;BARBARA;All Georgians are Cashiers, and all Films collectors are Georgians.;All Films collectors are Cashiers.;entailment;Entailment.
+17;BARBARA;All Georgians are Clergys, and all Films collectors are Georgians.;All Films collectors are Clergys.;entailment;Entailment.
+18;BARBARA;All Germans are Carpenters, and all Films collectors are Germans.;All Films collectors are Carpenters.;entailment;Contradiction.
+19;BARBARA;All Germans are Cashiers, and all Films collectors are Germans.;All Films collectors are Cashiers.;entailment;Contradiction.
+20;BARBARA;All Germans are Clergys, and all Films collectors are Germans.;All Films collectors are Clergys.;entailment;Entailment.
+21;BARBARA;All Haitians are Carpenters, and all Films collectors are Haitians.;All Films collectors are Carpenters.;entailment;Contradiction.
+22;BARBARA;All Haitians are Cashiers, and all Films collectors are Haitians.;All Films collectors are Cashiers.;entailment;Entailment.
+23;BARBARA;All Haitians are Clergys, and all Films collectors are Haitians.;All Films collectors are Clergys.;entailment;Entailment.
+24;BARBARA;All Gabonese are Carpenters, and all Knife collectors are Gabonese.;All Knife collectors are Carpenters.;entailment;Contradiction.
+25;BARBARA;All Gabonese are Cashiers, and all Knife collectors are Gabonese.;All Knife collectors are Cashiers.;entailment;Entailment.
+26;BARBARA;All Gabonese are Clergys, and all Knife collectors are Gabonese.;All Knife collectors are Clergys.;entailment;Entailment.
+27;BARBARA;All Georgians are Carpenters, and all Knife collectors are Georgians.;All Knife collectors are Carpenters.;entailment;Entailment.
+28;BARBARA;All Georgians are Cashiers, and all Knife collectors are Georgians.;All Knife collectors are Cashiers.;entailment;Entailment.
+29;BARBARA;All Georgians are Clergys, and all Knife collectors are Georgians.;All Knife collectors are Clergys.;entailment;Entailment.
+30;BARBARA;All Germans are Carpenters, and all Knife collectors are Germans.;All Knife collectors are Carpenters.;entailment;Contradiction.
+31;BARBARA;All Germans are Cashiers, and all Knife collectors are Germans.;All Knife collectors are Cashiers.;entailment;Entailment.
+32;BARBARA;All Germans are Clergys, and all Knife collectors are Germans.;All Knife collectors are Clergys.;entailment;Entailment.
+33;BARBARA;All Haitians are Carpenters, and all Knife collectors are Haitians.;All Knife collectors are Carpenters.;entailment;Entailment.
+34;BARBARA;All Haitians are Cashiers, and all Knife collectors are Haitians.;All Knife collectors are Cashiers.;entailment;Entailment.
+35;BARBARA;All Haitians are Clergys, and all Knife collectors are Haitians.;All Knife collectors are Clergys.;entailment;Entailment.
+36;CONTRADICTION;All Gabonese are Carpenters, and all Element collectors are Gabonese.;No Element collectors are Carpenters.;contradiction;Contradiction.
+37;CONTRADICTION;All Gabonese are Cashiers, and all Element collectors are Gabonese.;No Element collectors are Cashiers.;contradiction;Contradiction.
+38;CONTRADICTION;All Gabonese are Clergys, and all Element collectors are Gabonese.;No Element collectors are Clergys.;contradiction;Contradiction.
+39;CONTRADICTION;All Georgians are Carpenters, and all Element collectors are Georgians.;No Element collectors are Carpenters.;contradiction;Contradiction.
+40;CONTRADICTION;All Georgians are Cashiers, and all Element collectors are Georgians.;No Element collectors are Cashiers.;contradiction;Entailment.
+41;CONTRADICTION;All Georgians are Clergys, and all Element collectors are Georgians.;No Element collectors are Clergys.;contradiction;Contradiction.
+42;CONTRADICTION;All Germans are Carpenters, and all Element collectors are Germans.;No Element collectors are Carpenters.;contradiction;contradiction.
+43;CONTRADICTION;All Germans are Cashiers, and all Element collectors are Germans.;No Element collectors are Cashiers.;contradiction;Contradiction.
+44;CONTRADICTION;All Germans are Clergys, and all Element collectors are Germans.;No Element collectors are Clergys.;contradiction;Contradiction.
+45;CONTRADICTION;All Haitians are Carpenters, and all Element collectors are Haitians.;No Element collectors are Carpenters.;contradiction;Contradiction.
+46;CONTRADICTION;All Haitians are Cashiers, and all Element collectors are Haitians.;No Element collectors are Cashiers.;contradiction;Contradiction.
+47;CONTRADICTION;All Haitians are Clergys, and all Element collectors are Haitians.;No Element collectors are Clergys.;contradiction;Contradiction.
+48;CONTRADICTION;All Gabonese are Carpenters, and all Films collectors are Gabonese.;No Films collectors are Carpenters.;contradiction;Entailment.
+49;CONTRADICTION;All Gabonese are Cashiers, and all Films collectors are Gabonese.;No Films collectors are Cashiers.;contradiction;Contradiction.
+50;CONTRADICTION;All Gabonese are Clergys, and all Films collectors are Gabonese.;No Films collectors are Clergys.;contradiction;Entailment.
+51;CONTRADICTION;All Georgians are Carpenters, and all Films collectors are Georgians.;No Films collectors are Carpenters.;contradiction;Contradiction.
+52;CONTRADICTION;All Georgians are Cashiers, and all Films collectors are Georgians.;No Films collectors are Cashiers.;contradiction;Entailment.
+53;CONTRADICTION;All Georgians are Clergys, and all Films collectors are Georgians.;No Films collectors are Clergys.;contradiction;Contradiction.
+54;CONTRADICTION;All Germans are Carpenters, and all Films collectors are Germans.;No Films collectors are Carpenters.;contradiction;contradiction.
+55;CONTRADICTION;All Germans are Cashiers, and all Films collectors are Germans.;No Films collectors are Cashiers.;contradiction;contradiction.
+56;CONTRADICTION;All Germans are Clergys, and all Films collectors are Germans.;No Films collectors are Clergys.;contradiction;contradiction.
+57;CONTRADICTION;All Haitians are Carpenters, and all Films collectors are Haitians.;No Films collectors are Carpenters.;contradiction;Contradiction.
+58;CONTRADICTION;All Haitians are Cashiers, and all Films collectors are Haitians.;No Films collectors are Cashiers.;contradiction;contradiction.
+59;CONTRADICTION;All Haitians are Clergys, and all Films collectors are Haitians.;No Films collectors are Clergys.;contradiction;Contradiction.
+60;CONTRADICTION;All Gabonese are Carpenters, and all Knife collectors are Gabonese.;No Knife collectors are Carpenters.;contradiction;Entailment.
+61;CONTRADICTION;All Gabonese are Cashiers, and all Knife collectors are Gabonese.;No Knife collectors are Cashiers.;contradiction;Entailment.
+62;CONTRADICTION;All Gabonese are Clergys, and all Knife collectors are Gabonese.;No Knife collectors are Clergys.;contradiction;Entailment.
+63;CONTRADICTION;All Georgians are Carpenters, and all Knife collectors are Georgians.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+64;CONTRADICTION;All Georgians are Cashiers, and all Knife collectors are Georgians.;No Knife collectors are Cashiers.;contradiction;Entailment.
+65;CONTRADICTION;All Georgians are Clergys, and all Knife collectors are Georgians.;No Knife collectors are Clergys.;contradiction;Entailment.
+66;CONTRADICTION;All Germans are Carpenters, and all Knife collectors are Germans.;No Knife collectors are Carpenters.;contradiction;Entailment.
+67;CONTRADICTION;All Germans are Cashiers, and all Knife collectors are Germans.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+68;CONTRADICTION;All Germans are Clergys, and all Knife collectors are Germans.;No Knife collectors are Clergys.;contradiction;Contradiction.
+69;CONTRADICTION;All Haitians are Carpenters, and all Knife collectors are Haitians.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+70;CONTRADICTION;All Haitians are Cashiers, and all Knife collectors are Haitians.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+71;CONTRADICTION;All Haitians are Clergys, and all Knife collectors are Haitians.;No Knife collectors are Clergys.;contradiction;contradiction
+72;NEUTRAL;Some Gabonese are Carpenters, and Some Element collectors are Gabonese.;All Element collectors are Carpenters.;neutral;Contradiction.
+73;NEUTRAL;Some Gabonese are Cashiers, and Some Element collectors are Gabonese.;All Element collectors are Cashiers.;neutral;Contradiction.
+74;NEUTRAL;Some Gabonese are Clergys, and Some Element collectors are Gabonese.;All Element collectors are Clergys.;neutral;Contradiction.
+75;NEUTRAL;Some Georgians are Carpenters, and Some Element collectors are Georgians.;All Element collectors are Carpenters.;neutral;Contradiction.
+76;NEUTRAL;Some Georgians are Cashiers, and Some Element collectors are Georgians.;All Element collectors are Cashiers.;neutral;Contradiction.
+77;NEUTRAL;Some Georgians are Clergys, and Some Element collectors are Georgians.;All Element collectors are Clergys.;neutral;Contradiction.
+78;NEUTRAL;Some Germans are Carpenters, and Some Element collectors are Germans.;All Element collectors are Carpenters.;neutral;contradiction.
+79;NEUTRAL;Some Germans are Cashiers, and Some Element collectors are Germans.;All Element collectors are Cashiers.;neutral;Contradiction.
+80;NEUTRAL;Some Germans are Clergys, and Some Element collectors are Germans.;All Element collectors are Clergys.;neutral;Contradiction.
+81;NEUTRAL;Some Haitians are Carpenters, and Some Element collectors are Haitians.;All Element collectors are Carpenters.;neutral;Contradiction.
+82;NEUTRAL;Some Haitians are Cashiers, and Some Element collectors are Haitians.;All Element collectors are Cashiers.;neutral;Contradiction.
+83;NEUTRAL;Some Haitians are Clergys, and Some Element collectors are Haitians.;All Element collectors are Clergys.;neutral;Contradiction.
+84;NEUTRAL;Some Gabonese are Carpenters, and Some Films collectors are Gabonese.;All Films collectors are Carpenters.;neutral;contradiction.
+85;NEUTRAL;Some Gabonese are Cashiers, and Some Films collectors are Gabonese.;All Films collectors are Cashiers.;neutral;Contradiction.
+86;NEUTRAL;Some Gabonese are Clergys, and Some Films collectors are Gabonese.;All Films collectors are Clergys.;neutral;Contradiction.
+87;NEUTRAL;Some Georgians are Carpenters, and Some Films collectors are Georgians.;All Films collectors are Carpenters.;neutral;contradiction.
+88;NEUTRAL;Some Georgians are Cashiers, and Some Films collectors are Georgians.;All Films collectors are Cashiers.;neutral;Contradiction.
+89;NEUTRAL;Some Georgians are Clergys, and Some Films collectors are Georgians.;All Films collectors are Clergys.;neutral;Contradiction.
+90;NEUTRAL;Some Germans are Carpenters, and Some Films collectors are Germans.;All Films collectors are Carpenters.;neutral;Contradiction.
+91;NEUTRAL;Some Germans are Cashiers, and Some Films collectors are Germans.;All Films collectors are Cashiers.;neutral;Contradiction.
+92;NEUTRAL;Some Germans are Clergys, and Some Films collectors are Germans.;All Films collectors are Clergys.;neutral;Contradiction.
+93;NEUTRAL;Some Haitians are Carpenters, and Some Films collectors are Haitians.;All Films collectors are Carpenters.;neutral;Contradiction.
+94;NEUTRAL;Some Haitians are Cashiers, and Some Films collectors are Haitians.;All Films collectors are Cashiers.;neutral;Contradiction.
+95;NEUTRAL;Some Haitians are Clergys, and Some Films collectors are Haitians.;All Films collectors are Clergys.;neutral;Contradiction.
+96;NEUTRAL;Some Gabonese are Carpenters, and Some Knife collectors are Gabonese.;All Knife collectors are Carpenters.;neutral;Contradiction.
+97;NEUTRAL;Some Gabonese are Cashiers, and Some Knife collectors are Gabonese.;All Knife collectors are Cashiers.;neutral;Contradiction.
+98;NEUTRAL;Some Gabonese are Clergys, and Some Knife collectors are Gabonese.;All Knife collectors are Clergys.;neutral;Contradiction.
+99;NEUTRAL;Some Georgians are Carpenters, and Some Knife collectors are Georgians.;All Knife collectors are Carpenters.;neutral;Contradiction.
+100;NEUTRAL;Some Georgians are Cashiers, and Some Knife collectors are Georgians.;All Knife collectors are Cashiers.;neutral;Contradiction.
+101;NEUTRAL;Some Georgians are Clergys, and Some Knife collectors are Georgians.;All Knife collectors are Clergys.;neutral;Contradiction.
+102;NEUTRAL;Some Germans are Carpenters, and Some Knife collectors are Germans.;All Knife collectors are Carpenters.;neutral;Contradiction.
+103;NEUTRAL;Some Germans are Cashiers, and Some Knife collectors are Germans.;All Knife collectors are Cashiers.;neutral;Contradiction.
+104;NEUTRAL;Some Germans are Clergys, and Some Knife collectors are Germans.;All Knife collectors are Clergys.;neutral;contradiction
+105;NEUTRAL;Some Haitians are Carpenters, and Some Knife collectors are Haitians.;All Knife collectors are Carpenters.;neutral;Contradiction.
+106;NEUTRAL;Some Haitians are Cashiers, and Some Knife collectors are Haitians.;All Knife collectors are Cashiers.;neutral;Contradiction.
+107;NEUTRAL;Some Haitians are Clergys, and Some Knife collectors are Haitians.;All Knife collectors are Clergys.;neutral;Contradiction.
+108;CELARENT;Gabonese are not Carpenters, and all Element collectors are Gabonese.;Element collectors are not Carpenters.;entailment;Entailment.
+109;CELARENT;Gabonese are not Cashiers, and all Element collectors are Gabonese.;Element collectors are not Cashiers.;entailment;Entailment.
+110;CELARENT;Gabonese are not Clergys, and all Element collectors are Gabonese.;Element collectors are not Clergys.;entailment;Entailment.
+111;CELARENT;Georgians are not Carpenters, and all Element collectors are Georgians.;Element collectors are not Carpenters.;entailment;Entailment.
+112;CELARENT;Georgians are not Cashiers, and all Element collectors are Georgians.;Element collectors are not Cashiers.;entailment;Entailment.
+113;CELARENT;Georgians are not Clergys, and all Element collectors are Georgians.;Element collectors are not Clergys.;entailment;Entailment.
+114;CELARENT;Germans are not Carpenters, and all Element collectors are Germans.;Element collectors are not Carpenters.;entailment;Entailment.
+115;CELARENT;Germans are not Cashiers, and all Element collectors are Germans.;Element collectors are not Cashiers.;entailment;Entailment.
+116;CELARENT;Germans are not Clergys, and all Element collectors are Germans.;Element collectors are not Clergys.;entailment;Entailment.
+117;CELARENT;Haitians are not Carpenters, and all Element collectors are Haitians.;Element collectors are not Carpenters.;entailment;Entailment.
+118;CELARENT;Haitians are not Cashiers, and all Element collectors are Haitians.;Element collectors are not Cashiers.;entailment;Entailment.
+119;CELARENT;Haitians are not Clergys, and all Element collectors are Haitians.;Element collectors are not Clergys.;entailment;Entailment.
+120;CELARENT;Gabonese are not Carpenters, and all Films collectors are Gabonese.;Films collectors are not Carpenters.;entailment;Entailment.
+121;CELARENT;Gabonese are not Cashiers, and all Films collectors are Gabonese.;Films collectors are not Cashiers.;entailment;Entailment.
+122;CELARENT;Gabonese are not Clergys, and all Films collectors are Gabonese.;Films collectors are not Clergys.;entailment;Contradiction.
+123;CELARENT;Georgians are not Carpenters, and all Films collectors are Georgians.;Films collectors are not Carpenters.;entailment;Entailment.
+124;CELARENT;Georgians are not Cashiers, and all Films collectors are Georgians.;Films collectors are not Cashiers.;entailment;Entailment.
+125;CELARENT;Georgians are not Clergys, and all Films collectors are Georgians.;Films collectors are not Clergys.;entailment;Entailment.
+126;CELARENT;Germans are not Carpenters, and all Films collectors are Germans.;Films collectors are not Carpenters.;entailment;Entailment.
+127;CELARENT;Germans are not Cashiers, and all Films collectors are Germans.;Films collectors are not Cashiers.;entailment;Entailment.
+128;CELARENT;Germans are not Clergys, and all Films collectors are Germans.;Films collectors are not Clergys.;entailment;Entailment.
+129;CELARENT;Haitians are not Carpenters, and all Films collectors are Haitians.;Films collectors are not Carpenters.;entailment;Entailment.
+130;CELARENT;Haitians are not Cashiers, and all Films collectors are Haitians.;Films collectors are not Cashiers.;entailment;Contradiction.
+131;CELARENT;Haitians are not Clergys, and all Films collectors are Haitians.;Films collectors are not Clergys.;entailment;Entailment.
+132;CELARENT;Gabonese are not Carpenters, and all Knife collectors are Gabonese.;Knife collectors are not Carpenters.;entailment;Entailment.
+133;CELARENT;Gabonese are not Cashiers, and all Knife collectors are Gabonese.;Knife collectors are not Cashiers.;entailment;Entailment.
+134;CELARENT;Gabonese are not Clergys, and all Knife collectors are Gabonese.;Knife collectors are not Clergys.;entailment;Entailment.
+135;CELARENT;Georgians are not Carpenters, and all Knife collectors are Georgians.;Knife collectors are not Carpenters.;entailment;Entailment.
+136;CELARENT;Georgians are not Cashiers, and all Knife collectors are Georgians.;Knife collectors are not Cashiers.;entailment;Entailment.
+137;CELARENT;Georgians are not Clergys, and all Knife collectors are Georgians.;Knife collectors are not Clergys.;entailment;Entailment.
+138;CELARENT;Germans are not Carpenters, and all Knife collectors are Germans.;Knife collectors are not Carpenters.;entailment;Entailment.
+139;CELARENT;Germans are not Cashiers, and all Knife collectors are Germans.;Knife collectors are not Cashiers.;entailment;Entailment.
+140;CELARENT;Germans are not Clergys, and all Knife collectors are Germans.;Knife collectors are not Clergys.;entailment;Entailment.
+141;CELARENT;Haitians are not Carpenters, and all Knife collectors are Haitians.;Knife collectors are not Carpenters.;entailment;Entailment.
+142;CELARENT;Haitians are not Cashiers, and all Knife collectors are Haitians.;Knife collectors are not Cashiers.;entailment;Entailment.
+143;CELARENT;Haitians are not Clergys, and all Knife collectors are Haitians.;Knife collectors are not Clergys.;entailment;Entailment.
+144;NEUTRAL;Gabonese are not Carpenters, and no Element collectors are Gabonese.;Element collectors are Carpenters.;neutral;Contradiction.
+145;NEUTRAL;Gabonese are not Cashiers, and no Element collectors are Gabonese.;Element collectors are Cashiers.;neutral;Contradiction.
+146;NEUTRAL;Gabonese are not Clergys, and no Element collectors are Gabonese.;Element collectors are Clergys.;neutral;Contradiction.
+147;NEUTRAL;Georgians are not Carpenters, and no Element collectors are Georgians.;Element collectors are Carpenters.;neutral;Contradiction.
+148;NEUTRAL;Georgians are not Cashiers, and no Element collectors are Georgians.;Element collectors are Cashiers.;neutral;Contradiction.
+149;NEUTRAL;Georgians are not Clergys, and no Element collectors are Georgians.;Element collectors are Clergys.;neutral;Contradiction.
+150;NEUTRAL;Germans are not Carpenters, and no Element collectors are Germans.;Element collectors are Carpenters.;neutral;Contradiction.
+151;NEUTRAL;Germans are not Cashiers, and no Element collectors are Germans.;Element collectors are Cashiers.;neutral;Contradiction.
+152;NEUTRAL;Germans are not Clergys, and no Element collectors are Germans.;Element collectors are Clergys.;neutral;Contradiction.
+153;NEUTRAL;Haitians are not Carpenters, and no Element collectors are Haitians.;Element collectors are Carpenters.;neutral;contradiction.
+154;NEUTRAL;Haitians are not Cashiers, and no Element collectors are Haitians.;Element collectors are Cashiers.;neutral;contradiction
+155;NEUTRAL;Haitians are not Clergys, and no Element collectors are Haitians.;Element collectors are Clergys.;neutral;Contradiction.
+156;NEUTRAL;Gabonese are not Carpenters, and no Films collectors are Gabonese.;Films collectors are Carpenters.;neutral;Contradiction.
+157;NEUTRAL;Gabonese are not Cashiers, and no Films collectors are Gabonese.;Films collectors are Cashiers.;neutral;Contradiction.
+158;NEUTRAL;Gabonese are not Clergys, and no Films collectors are Gabonese.;Films collectors are Clergys.;neutral;Contradiction.
+159;NEUTRAL;Georgians are not Carpenters, and no Films collectors are Georgians.;Films collectors are Carpenters.;neutral;Contradiction.
+160;NEUTRAL;Georgians are not Cashiers, and no Films collectors are Georgians.;Films collectors are Cashiers.;neutral;contradiction.
+161;NEUTRAL;Georgians are not Clergys, and no Films collectors are Georgians.;Films collectors are Clergys.;neutral;contradiction.
+162;NEUTRAL;Germans are not Carpenters, and no Films collectors are Germans.;Films collectors are Carpenters.;neutral;Contradiction.
+163;NEUTRAL;Germans are not Cashiers, and no Films collectors are Germans.;Films collectors are Cashiers.;neutral;Contradiction.
+164;NEUTRAL;Germans are not Clergys, and no Films collectors are Germans.;Films collectors are Clergys.;neutral;Contradiction.
+165;NEUTRAL;Haitians are not Carpenters, and no Films collectors are Haitians.;Films collectors are Carpenters.;neutral;contradiction.
+166;NEUTRAL;Haitians are not Cashiers, and no Films collectors are Haitians.;Films collectors are Cashiers.;neutral;Contradiction.
+167;NEUTRAL;Haitians are not Clergys, and no Films collectors are Haitians.;Films collectors are Clergys.;neutral;Contradiction.
+168;NEUTRAL;Gabonese are not Carpenters, and no Knife collectors are Gabonese.;Knife collectors are Carpenters.;neutral;Contradiction.
+169;NEUTRAL;Gabonese are not Cashiers, and no Knife collectors are Gabonese.;Knife collectors are Cashiers.;neutral;Contradiction.
+170;NEUTRAL;Gabonese are not Clergys, and no Knife collectors are Gabonese.;Knife collectors are Clergys.;neutral;Contradiction.
+171;NEUTRAL;Georgians are not Carpenters, and no Knife collectors are Georgians.;Knife collectors are Carpenters.;neutral;contradiction
+172;NEUTRAL;Georgians are not Cashiers, and no Knife collectors are Georgians.;Knife collectors are Cashiers.;neutral;contradiction.
+173;NEUTRAL;Georgians are not Clergys, and no Knife collectors are Georgians.;Knife collectors are Clergys.;neutral;Contradiction.
+174;NEUTRAL;Germans are not Carpenters, and no Knife collectors are Germans.;Knife collectors are Carpenters.;neutral;Contradiction.
+175;NEUTRAL;Germans are not Cashiers, and no Knife collectors are Germans.;Knife collectors are Cashiers.;neutral;Contradiction.
+176;NEUTRAL;Germans are not Clergys, and no Knife collectors are Germans.;Knife collectors are Clergys.;neutral;Contradiction.
+177;NEUTRAL;Haitians are not Carpenters, and no Knife collectors are Haitians.;Knife collectors are Carpenters.;neutral;Contradiction.
+178;NEUTRAL;Haitians are not Cashiers, and no Knife collectors are Haitians.;Knife collectors are Cashiers.;neutral;Contradiction.
+179;NEUTRAL;Haitians are not Clergys, and no Knife collectors are Haitians.;Knife collectors are Clergys.;neutral;Contradiction.
+180;CONTRADICTION;Gabonese are Carpenters, and all Element collectors are Gabonese.;Element collectors are not Carpenters.;contradiction;Contradiction.
+181;CONTRADICTION;Gabonese are Cashiers, and all Element collectors are Gabonese.;Element collectors are not Cashiers.;contradiction;contradiction.
+182;CONTRADICTION;Gabonese are Clergys, and all Element collectors are Gabonese.;Element collectors are not Clergys.;contradiction;Contradiction.
+183;CONTRADICTION;Georgians are Carpenters, and all Element collectors are Georgians.;Element collectors are not Carpenters.;contradiction;Contradiction.
+184;CONTRADICTION;Georgians are Cashiers, and all Element collectors are Georgians.;Element collectors are not Cashiers.;contradiction;Contradiction.
+185;CONTRADICTION;Georgians are Clergys, and all Element collectors are Georgians.;Element collectors are not Clergys.;contradiction;Contradiction.
+186;CONTRADICTION;Germans are Carpenters, and all Element collectors are Germans.;Element collectors are not Carpenters.;contradiction;Contradiction.
+187;CONTRADICTION;Germans are Cashiers, and all Element collectors are Germans.;Element collectors are not Cashiers.;contradiction;Contradiction.
+188;CONTRADICTION;Germans are Clergys, and all Element collectors are Germans.;Element collectors are not Clergys.;contradiction;contradiction
+189;CONTRADICTION;Haitians are Carpenters, and all Element collectors are Haitians.;Element collectors are not Carpenters.;contradiction;Contradiction.
+190;CONTRADICTION;Haitians are Cashiers, and all Element collectors are Haitians.;Element collectors are not Cashiers.;contradiction;Contradiction
+191;CONTRADICTION;Haitians are Clergys, and all Element collectors are Haitians.;Element collectors are not Clergys.;contradiction;contradiction.
+192;CONTRADICTION;Gabonese are Carpenters, and all Films collectors are Gabonese.;Films collectors are not Carpenters.;contradiction;Contradiction.
+193;CONTRADICTION;Gabonese are Cashiers, and all Films collectors are Gabonese.;Films collectors are not Cashiers.;contradiction;Contradiction.
+194;CONTRADICTION;Gabonese are Clergys, and all Films collectors are Gabonese.;Films collectors are not Clergys.;contradiction;Contradiction.
+195;CONTRADICTION;Georgians are Carpenters, and all Films collectors are Georgians.;Films collectors are not Carpenters.;contradiction;Contradiction.
+196;CONTRADICTION;Georgians are Cashiers, and all Films collectors are Georgians.;Films collectors are not Cashiers.;contradiction;contradiction.
+197;CONTRADICTION;Georgians are Clergys, and all Films collectors are Georgians.;Films collectors are not Clergys.;contradiction;Contradiction.
+198;CONTRADICTION;Germans are Carpenters, and all Films collectors are Germans.;Films collectors are not Carpenters.;contradiction;Contradiction.
+199;CONTRADICTION;Germans are Cashiers, and all Films collectors are Germans.;Films collectors are not Cashiers.;contradiction;Contradiction.
+200;CONTRADICTION;Germans are Clergys, and all Films collectors are Germans.;Films collectors are not Clergys.;contradiction;Contradiction.
+201;CONTRADICTION;Haitians are Carpenters, and all Films collectors are Haitians.;Films collectors are not Carpenters.;contradiction;Contradiction.
+202;CONTRADICTION;Haitians are Cashiers, and all Films collectors are Haitians.;Films collectors are not Cashiers.;contradiction;Contradiction.
+203;CONTRADICTION;Haitians are Clergys, and all Films collectors are Haitians.;Films collectors are not Clergys.;contradiction;Contradiction.
+204;CONTRADICTION;Gabonese are Carpenters, and all Knife collectors are Gabonese.;Knife collectors are not Carpenters.;contradiction;Contradiction.
+205;CONTRADICTION;Gabonese are Cashiers, and all Knife collectors are Gabonese.;Knife collectors are not Cashiers.;contradiction;Contradiction.
+206;CONTRADICTION;Gabonese are Clergys, and all Knife collectors are Gabonese.;Knife collectors are not Clergys.;contradiction;Contradiction.
+207;CONTRADICTION;Georgians are Carpenters, and all Knife collectors are Georgians.;Knife collectors are not Carpenters.;contradiction;Contradiction.
+208;CONTRADICTION;Georgians are Cashiers, and all Knife collectors are Georgians.;Knife collectors are not Cashiers.;contradiction;Contradiction.
+209;CONTRADICTION;Georgians are Clergys, and all Knife collectors are Georgians.;Knife collectors are not Clergys.;contradiction;Contradiction.
+210;CONTRADICTION;Germans are Carpenters, and all Knife collectors are Germans.;Knife collectors are not Carpenters.;contradiction;Contradiction.
+211;CONTRADICTION;Germans are Cashiers, and all Knife collectors are Germans.;Knife collectors are not Cashiers.;contradiction;contradiction.
+212;CONTRADICTION;Germans are Clergys, and all Knife collectors are Germans.;Knife collectors are not Clergys.;contradiction;Contradiction.
+213;CONTRADICTION;Haitians are Carpenters, and all Knife collectors are Haitians.;Knife collectors are not Carpenters.;contradiction;Contradiction.
+214;CONTRADICTION;Haitians are Cashiers, and all Knife collectors are Haitians.;Knife collectors are not Cashiers.;contradiction;Contradiction.
+215;CONTRADICTION;Haitians are Clergys, and all Knife collectors are Haitians.;Knife collectors are not Clergys.;contradiction;contradiction.
+216;DARII;All Gabonese are Carpenters, and some Element collectors are Gabonese.;Some Element collectors are Carpenters.;entailment;Neutral.
+217;DARII;All Gabonese are Cashiers, and some Element collectors are Gabonese.;Some Element collectors are Cashiers.;entailment;Neutral.
+218;DARII;All Gabonese are Clergys, and some Element collectors are Gabonese.;Some Element collectors are Clergys.;entailment;Entailment.
+219;DARII;All Georgians are Carpenters, and some Element collectors are Georgians.;Some Element collectors are Carpenters.;entailment;Entailment.
+220;DARII;All Georgians are Cashiers, and some Element collectors are Georgians.;Some Element collectors are Cashiers.;entailment;Neutral.
+221;DARII;All Georgians are Clergys, and some Element collectors are Georgians.;Some Element collectors are Clergys.;entailment;Entailment.
+222;DARII;All Germans are Carpenters, and some Element collectors are Germans.;Some Element collectors are Carpenters.;entailment;Entailment.
+223;DARII;All Germans are Cashiers, and some Element collectors are Germans.;Some Element collectors are Cashiers.;entailment;Neutral.
+224;DARII;All Germans are Clergys, and some Element collectors are Germans.;Some Element collectors are Clergys.;entailment;Entailment.
+225;DARII;All Haitians are Carpenters, and some Element collectors are Haitians.;Some Element collectors are Carpenters.;entailment;Entailment.
+226;DARII;All Haitians are Cashiers, and some Element collectors are Haitians.;Some Element collectors are Cashiers.;entailment;Entailment.
+227;DARII;All Haitians are Clergys, and some Element collectors are Haitians.;Some Element collectors are Clergys.;entailment;Entailment.
+228;DARII;All Gabonese are Carpenters, and some Films collectors are Gabonese.;Some Films collectors are Carpenters.;entailment;Entailment.
+229;DARII;All Gabonese are Cashiers, and some Films collectors are Gabonese.;Some Films collectors are Cashiers.;entailment;Entailment.
+230;DARII;All Gabonese are Clergys, and some Films collectors are Gabonese.;Some Films collectors are Clergys.;entailment;Entailment.
+231;DARII;All Georgians are Carpenters, and some Films collectors are Georgians.;Some Films collectors are Carpenters.;entailment;Neutral.
+232;DARII;All Georgians are Cashiers, and some Films collectors are Georgians.;Some Films collectors are Cashiers.;entailment;Entailment.
+233;DARII;All Georgians are Clergys, and some Films collectors are Georgians.;Some Films collectors are Clergys.;entailment;Entailment.
+234;DARII;All Germans are Carpenters, and some Films collectors are Germans.;Some Films collectors are Carpenters.;entailment;Neutral.
+235;DARII;All Germans are Cashiers, and some Films collectors are Germans.;Some Films collectors are Cashiers.;entailment;Neutral.
+236;DARII;All Germans are Clergys, and some Films collectors are Germans.;Some Films collectors are Clergys.;entailment;Entailment.
+237;DARII;All Haitians are Carpenters, and some Films collectors are Haitians.;Some Films collectors are Carpenters.;entailment;Entailment.
+238;DARII;All Haitians are Cashiers, and some Films collectors are Haitians.;Some Films collectors are Cashiers.;entailment;Neutral.
+239;DARII;All Haitians are Clergys, and some Films collectors are Haitians.;Some Films collectors are Clergys.;entailment;Neutral.
+240;DARII;All Gabonese are Carpenters, and some Knife collectors are Gabonese.;Some Knife collectors are Carpenters.;entailment;Neutral.
+241;DARII;All Gabonese are Cashiers, and some Knife collectors are Gabonese.;Some Knife collectors are Cashiers.;entailment;Neutral.
+242;DARII;All Gabonese are Clergys, and some Knife collectors are Gabonese.;Some Knife collectors are Clergys.;entailment;Entailment.
+243;DARII;All Georgians are Carpenters, and some Knife collectors are Georgians.;Some Knife collectors are Carpenters.;entailment;Entailment.
+244;DARII;All Georgians are Cashiers, and some Knife collectors are Georgians.;Some Knife collectors are Cashiers.;entailment;Entailment.
+245;DARII;All Georgians are Clergys, and some Knife collectors are Georgians.;Some Knife collectors are Clergys.;entailment;Entailment.
+246;DARII;All Germans are Carpenters, and some Knife collectors are Germans.;Some Knife collectors are Carpenters.;entailment;Neutral.
+247;DARII;All Germans are Cashiers, and some Knife collectors are Germans.;Some Knife collectors are Cashiers.;entailment;Neutral.
+248;DARII;All Germans are Clergys, and some Knife collectors are Germans.;Some Knife collectors are Clergys.;entailment;Entailment.
+249;DARII;All Haitians are Carpenters, and some Knife collectors are Haitians.;Some Knife collectors are Carpenters.;entailment;neutral.
+250;DARII;All Haitians are Cashiers, and some Knife collectors are Haitians.;Some Knife collectors are Cashiers.;entailment;Neutral.
+251;DARII;All Haitians are Clergys, and some Knife collectors are Haitians.;Some Knife collectors are Clergys.;entailment;Entailment.
+252;CONTRADICTION;All Gabonese are Carpenters, and no Element collectors are Gabonese.;Some Element collectors are Carpenters.;contradiction;contradiction
+253;CONTRADICTION;All Gabonese are Cashiers, and no Element collectors are Gabonese.;Some Element collectors are Cashiers.;contradiction;Contradiction.
+254;CONTRADICTION;All Gabonese are Clergys, and no Element collectors are Gabonese.;Some Element collectors are Clergys.;contradiction;Contradiction.
+255;CONTRADICTION;All Georgians are Carpenters, and no Element collectors are Georgians.;Some Element collectors are Carpenters.;contradiction;Contradiction.
+256;CONTRADICTION;All Georgians are Cashiers, and no Element collectors are Georgians.;Some Element collectors are Cashiers.;contradiction;Contradiction.
+257;CONTRADICTION;All Georgians are Clergys, and no Element collectors are Georgians.;Some Element collectors are Clergys.;contradiction;Contradiction.
+258;CONTRADICTION;All Germans are Carpenters, and no Element collectors are Germans.;Some Element collectors are Carpenters.;contradiction;Contradiction.
+259;CONTRADICTION;All Germans are Cashiers, and no Element collectors are Germans.;Some Element collectors are Cashiers.;contradiction;Contradiction.
+260;CONTRADICTION;All Germans are Clergys, and no Element collectors are Germans.;Some Element collectors are Clergys.;contradiction;Contradiction.
+261;CONTRADICTION;All Haitians are Carpenters, and no Element collectors are Haitians.;Some Element collectors are Carpenters.;contradiction;Contradiction.
+262;CONTRADICTION;All Haitians are Cashiers, and no Element collectors are Haitians.;Some Element collectors are Cashiers.;contradiction;Contradiction.
+263;CONTRADICTION;All Haitians are Clergys, and no Element collectors are Haitians.;Some Element collectors are Clergys.;contradiction;Contradiction.
+264;CONTRADICTION;All Gabonese are Carpenters, and no Films collectors are Gabonese.;Some Films collectors are Carpenters.;contradiction;Contradiction.
+265;CONTRADICTION;All Gabonese are Cashiers, and no Films collectors are Gabonese.;Some Films collectors are Cashiers.;contradiction;Contradiction.
+266;CONTRADICTION;All Gabonese are Clergys, and no Films collectors are Gabonese.;Some Films collectors are Clergys.;contradiction;Contradiction.
+267;CONTRADICTION;All Georgians are Carpenters, and no Films collectors are Georgians.;Some Films collectors are Carpenters.;contradiction;contradiction.
+268;CONTRADICTION;All Georgians are Cashiers, and no Films collectors are Georgians.;Some Films collectors are Cashiers.;contradiction;Contradiction.
+269;CONTRADICTION;All Georgians are Clergys, and no Films collectors are Georgians.;Some Films collectors are Clergys.;contradiction;Contradiction.
+270;CONTRADICTION;All Germans are Carpenters, and no Films collectors are Germans.;Some Films collectors are Carpenters.;contradiction;Contradiction.
+271;CONTRADICTION;All Germans are Cashiers, and no Films collectors are Germans.;Some Films collectors are Cashiers.;contradiction;Contradiction.
+272;CONTRADICTION;All Germans are Clergys, and no Films collectors are Germans.;Some Films collectors are Clergys.;contradiction;Contradiction.
+273;CONTRADICTION;All Haitians are Carpenters, and no Films collectors are Haitians.;Some Films collectors are Carpenters.;contradiction;Contradiction.
+274;CONTRADICTION;All Haitians are Cashiers, and no Films collectors are Haitians.;Some Films collectors are Cashiers.;contradiction;Contradiction.
+275;CONTRADICTION;All Haitians are Clergys, and no Films collectors are Haitians.;Some Films collectors are Clergys.;contradiction;Contradiction.
+276;CONTRADICTION;All Gabonese are Carpenters, and no Knife collectors are Gabonese.;Some Knife collectors are Carpenters.;contradiction;Contradiction.
+277;CONTRADICTION;All Gabonese are Cashiers, and no Knife collectors are Gabonese.;Some Knife collectors are Cashiers.;contradiction;Contradiction.
+278;CONTRADICTION;All Gabonese are Clergys, and no Knife collectors are Gabonese.;Some Knife collectors are Clergys.;contradiction;Contradiction.
+279;CONTRADICTION;All Georgians are Carpenters, and no Knife collectors are Georgians.;Some Knife collectors are Carpenters.;contradiction;Contradiction.
+280;CONTRADICTION;All Georgians are Cashiers, and no Knife collectors are Georgians.;Some Knife collectors are Cashiers.;contradiction;Contradiction.
+281;CONTRADICTION;All Georgians are Clergys, and no Knife collectors are Georgians.;Some Knife collectors are Clergys.;contradiction;Contradiction.
+282;CONTRADICTION;All Germans are Carpenters, and no Knife collectors are Germans.;Some Knife collectors are Carpenters.;contradiction;Contradiction.
+283;CONTRADICTION;All Germans are Cashiers, and no Knife collectors are Germans.;Some Knife collectors are Cashiers.;contradiction;Contradiction.
+284;CONTRADICTION;All Germans are Clergys, and no Knife collectors are Germans.;Some Knife collectors are Clergys.;contradiction;Contradiction.
+285;CONTRADICTION;All Haitians are Carpenters, and no Knife collectors are Haitians.;Some Knife collectors are Carpenters.;contradiction;contradiction.
+286;CONTRADICTION;All Haitians are Cashiers, and no Knife collectors are Haitians.;Some Knife collectors are Cashiers.;contradiction;Contradiction.
+287;CONTRADICTION;All Haitians are Clergys, and no Knife collectors are Haitians.;Some Knife collectors are Clergys.;contradiction;Contradiction.
+288;NEUTRAL;Some Gabonese are Carpenters, and some Element collectors are Gabonese.;Some Element collectors are Carpenters.;neutral;Entailment.
+289;NEUTRAL;Some Gabonese are Cashiers, and some Element collectors are Gabonese.;Some Element collectors are Cashiers.;neutral;Entailment.
+290;NEUTRAL;Some Gabonese are Clergys, and some Element collectors are Gabonese.;Some Element collectors are Clergys.;neutral;Entailment.
+291;NEUTRAL;Some Georgians are Carpenters, and some Element collectors are Georgians.;Some Element collectors are Carpenters.;neutral;Entailment.
+292;NEUTRAL;Some Georgians are Cashiers, and some Element collectors are Georgians.;Some Element collectors are Cashiers.;neutral;Entailment.
+293;NEUTRAL;Some Georgians are Clergys, and some Element collectors are Georgians.;Some Element collectors are Clergys.;neutral;Neutral.
+294;NEUTRAL;Some Germans are Carpenters, and some Element collectors are Germans.;Some Element collectors are Carpenters.;neutral;Entailment.
+295;NEUTRAL;Some Germans are Cashiers, and some Element collectors are Germans.;Some Element collectors are Cashiers.;neutral;Entailment.
+296;NEUTRAL;Some Germans are Clergys, and some Element collectors are Germans.;Some Element collectors are Clergys.;neutral;Neutral.
+297;NEUTRAL;Some Haitians are Carpenters, and some Element collectors are Haitians.;Some Element collectors are Carpenters.;neutral;Entailment.
+298;NEUTRAL;Some Haitians are Cashiers, and some Element collectors are Haitians.;Some Element collectors are Cashiers.;neutral;Entailment
+299;NEUTRAL;Some Haitians are Clergys, and some Element collectors are Haitians.;Some Element collectors are Clergys.;neutral;Entailment.
+300;NEUTRAL;Some Gabonese are Carpenters, and some Films collectors are Gabonese.;Some Films collectors are Carpenters.;neutral;Neutral.
+301;NEUTRAL;Some Gabonese are Cashiers, and some Films collectors are Gabonese.;Some Films collectors are Cashiers.;neutral;Entailment.
+302;NEUTRAL;Some Gabonese are Clergys, and some Films collectors are Gabonese.;Some Films collectors are Clergys.;neutral;Neutral.
+303;NEUTRAL;Some Georgians are Carpenters, and some Films collectors are Georgians.;Some Films collectors are Carpenters.;neutral;Neutral.
+304;NEUTRAL;Some Georgians are Cashiers, and some Films collectors are Georgians.;Some Films collectors are Cashiers.;neutral;Neutral.
+305;NEUTRAL;Some Georgians are Clergys, and some Films collectors are Georgians.;Some Films collectors are Clergys.;neutral;Neutral.
+306;NEUTRAL;Some Germans are Carpenters, and some Films collectors are Germans.;Some Films collectors are Carpenters.;neutral;Neutral.
+307;NEUTRAL;Some Germans are Cashiers, and some Films collectors are Germans.;Some Films collectors are Cashiers.;neutral;Entailment.
+308;NEUTRAL;Some Germans are Clergys, and some Films collectors are Germans.;Some Films collectors are Clergys.;neutral;Neutral.
+309;NEUTRAL;Some Haitians are Carpenters, and some Films collectors are Haitians.;Some Films collectors are Carpenters.;neutral;Neutral.
+310;NEUTRAL;Some Haitians are Cashiers, and some Films collectors are Haitians.;Some Films collectors are Cashiers.;neutral;Entailment.
+311;NEUTRAL;Some Haitians are Clergys, and some Films collectors are Haitians.;Some Films collectors are Clergys.;neutral;Entailment.
+312;NEUTRAL;Some Gabonese are Carpenters, and some Knife collectors are Gabonese.;Some Knife collectors are Carpenters.;neutral;Neutral.
+313;NEUTRAL;Some Gabonese are Cashiers, and some Knife collectors are Gabonese.;Some Knife collectors are Cashiers.;neutral;Entailment.
+314;NEUTRAL;Some Gabonese are Clergys, and some Knife collectors are Gabonese.;Some Knife collectors are Clergys.;neutral;Neutral.
+315;NEUTRAL;Some Georgians are Carpenters, and some Knife collectors are Georgians.;Some Knife collectors are Carpenters.;neutral;Entailment.
+316;NEUTRAL;Some Georgians are Cashiers, and some Knife collectors are Georgians.;Some Knife collectors are Cashiers.;neutral;Entailment.
+317;NEUTRAL;Some Georgians are Clergys, and some Knife collectors are Georgians.;Some Knife collectors are Clergys.;neutral;Neutral.
+318;NEUTRAL;Some Germans are Carpenters, and some Knife collectors are Germans.;Some Knife collectors are Carpenters.;neutral;Neutral.
+319;NEUTRAL;Some Germans are Cashiers, and some Knife collectors are Germans.;Some Knife collectors are Cashiers.;neutral;Entailment.
+320;NEUTRAL;Some Germans are Clergys, and some Knife collectors are Germans.;Some Knife collectors are Clergys.;neutral;Entailment.
+321;NEUTRAL;Some Haitians are Carpenters, and some Knife collectors are Haitians.;Some Knife collectors are Carpenters.;neutral;Neutral.
+322;NEUTRAL;Some Haitians are Cashiers, and some Knife collectors are Haitians.;Some Knife collectors are Cashiers.;neutral;Neutral.
+323;NEUTRAL;Some Haitians are Clergys, and some Knife collectors are Haitians.;Some Knife collectors are Clergys.;neutral;Neutral.
+324;FERIO;Gabonese are not Carpenters, and some Element collectors are Gabonese.;Some Element collectors are not Carpenters.;entailment;Entailment.
+325;FERIO;Gabonese are not Cashiers, and some Element collectors are Gabonese.;Some Element collectors are not Cashiers.;entailment;Entailment.
+326;FERIO;Gabonese are not Clergys, and some Element collectors are Gabonese.;Some Element collectors are not Clergys.;entailment;Entailment.
+327;FERIO;Georgians are not Carpenters, and some Element collectors are Georgians.;Some Element collectors are not Carpenters.;entailment;Entailment.
+328;FERIO;Georgians are not Cashiers, and some Element collectors are Georgians.;Some Element collectors are not Cashiers.;entailment;Entailment.
+329;FERIO;Georgians are not Clergys, and some Element collectors are Georgians.;Some Element collectors are not Clergys.;entailment;Entailment.
+330;FERIO;Germans are not Carpenters, and some Element collectors are Germans.;Some Element collectors are not Carpenters.;entailment;Entailment.
+331;FERIO;Germans are not Cashiers, and some Element collectors are Germans.;Some Element collectors are not Cashiers.;entailment;Entailment.
+332;FERIO;Germans are not Clergys, and some Element collectors are Germans.;Some Element collectors are not Clergys.;entailment;Entailment.
+333;FERIO;Haitians are not Carpenters, and some Element collectors are Haitians.;Some Element collectors are not Carpenters.;entailment;Entailment.
+334;FERIO;Haitians are not Cashiers, and some Element collectors are Haitians.;Some Element collectors are not Cashiers.;entailment;entailment
+335;FERIO;Haitians are not Clergys, and some Element collectors are Haitians.;Some Element collectors are not Clergys.;entailment;Entailment.
+336;FERIO;Gabonese are not Carpenters, and some Films collectors are Gabonese.;Some Films collectors are not Carpenters.;entailment;Entailment.
+337;FERIO;Gabonese are not Cashiers, and some Films collectors are Gabonese.;Some Films collectors are not Cashiers.;entailment;Entailment.
+338;FERIO;Gabonese are not Clergys, and some Films collectors are Gabonese.;Some Films collectors are not Clergys.;entailment;Entailment.
+339;FERIO;Georgians are not Carpenters, and some Films collectors are Georgians.;Some Films collectors are not Carpenters.;entailment;Entailment.
+340;FERIO;Georgians are not Cashiers, and some Films collectors are Georgians.;Some Films collectors are not Cashiers.;entailment;Entailment.
+341;FERIO;Georgians are not Clergys, and some Films collectors are Georgians.;Some Films collectors are not Clergys.;entailment;Entailment.
+342;FERIO;Germans are not Carpenters, and some Films collectors are Germans.;Some Films collectors are not Carpenters.;entailment;entailment.
+343;FERIO;Germans are not Cashiers, and some Films collectors are Germans.;Some Films collectors are not Cashiers.;entailment;Entailment.
+344;FERIO;Germans are not Clergys, and some Films collectors are Germans.;Some Films collectors are not Clergys.;entailment;Entailment.
+345;FERIO;Haitians are not Carpenters, and some Films collectors are Haitians.;Some Films collectors are not Carpenters.;entailment;Entailment.
+346;FERIO;Haitians are not Cashiers, and some Films collectors are Haitians.;Some Films collectors are not Cashiers.;entailment;Entailment.
+347;FERIO;Haitians are not Clergys, and some Films collectors are Haitians.;Some Films collectors are not Clergys.;entailment;The relation between the sentences is entailment.
+348;FERIO;Gabonese are not Carpenters, and some Knife collectors are Gabonese.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+349;FERIO;Gabonese are not Cashiers, and some Knife collectors are Gabonese.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+350;FERIO;Gabonese are not Clergys, and some Knife collectors are Gabonese.;Some Knife collectors are not Clergys.;entailment;Neutral.
+351;FERIO;Georgians are not Carpenters, and some Knife collectors are Georgians.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+352;FERIO;Georgians are not Cashiers, and some Knife collectors are Georgians.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+353;FERIO;Georgians are not Clergys, and some Knife collectors are Georgians.;Some Knife collectors are not Clergys.;entailment;Entailment.
+354;FERIO;Germans are not Carpenters, and some Knife collectors are Germans.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+355;FERIO;Germans are not Cashiers, and some Knife collectors are Germans.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+356;FERIO;Germans are not Clergys, and some Knife collectors are Germans.;Some Knife collectors are not Clergys.;entailment;Entailment.
+357;FERIO;Haitians are not Carpenters, and some Knife collectors are Haitians.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+358;FERIO;Haitians are not Cashiers, and some Knife collectors are Haitians.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+359;FERIO;Haitians are not Clergys, and some Knife collectors are Haitians.;Some Knife collectors are not Clergys.;entailment;Neutral.
+360;CONTRADICTION;Gabonese are not Carpenters, and some Element collectors are Gabonese.;All Element collectors are Carpenters.;contradiction;contradiction.
+361;CONTRADICTION;Gabonese are not Cashiers, and some Element collectors are Gabonese.;All Element collectors are Cashiers.;contradiction;contradiction
+362;CONTRADICTION;Gabonese are not Clergys, and some Element collectors are Gabonese.;All Element collectors are Clergys.;contradiction;Contradiction.
+363;CONTRADICTION;Georgians are not Carpenters, and some Element collectors are Georgians.;All Element collectors are Carpenters.;contradiction;Contradiction.
+364;CONTRADICTION;Georgians are not Cashiers, and some Element collectors are Georgians.;All Element collectors are Cashiers.;contradiction;contradiction
+365;CONTRADICTION;Georgians are not Clergys, and some Element collectors are Georgians.;All Element collectors are Clergys.;contradiction;Contradiction.
+366;CONTRADICTION;Germans are not Carpenters, and some Element collectors are Germans.;All Element collectors are Carpenters.;contradiction;Contradiction.
+367;CONTRADICTION;Germans are not Cashiers, and some Element collectors are Germans.;All Element collectors are Cashiers.;contradiction;Contradiction.
+368;CONTRADICTION;Germans are not Clergys, and some Element collectors are Germans.;All Element collectors are Clergys.;contradiction;Contradiction.
+369;CONTRADICTION;Haitians are not Carpenters, and some Element collectors are Haitians.;All Element collectors are Carpenters.;contradiction;Contradiction.
+370;CONTRADICTION;Haitians are not Cashiers, and some Element collectors are Haitians.;All Element collectors are Cashiers.;contradiction;contradiction.
+371;CONTRADICTION;Haitians are not Clergys, and some Element collectors are Haitians.;All Element collectors are Clergys.;contradiction;Contradiction.
+372;CONTRADICTION;Gabonese are not Carpenters, and some Films collectors are Gabonese.;All Films collectors are Carpenters.;contradiction;Contradiction.
+373;CONTRADICTION;Gabonese are not Cashiers, and some Films collectors are Gabonese.;All Films collectors are Cashiers.;contradiction;contradiction.
+374;CONTRADICTION;Gabonese are not Clergys, and some Films collectors are Gabonese.;All Films collectors are Clergys.;contradiction;contradiction.
+375;CONTRADICTION;Georgians are not Carpenters, and some Films collectors are Georgians.;All Films collectors are Carpenters.;contradiction;Contradiction.
+376;CONTRADICTION;Georgians are not Cashiers, and some Films collectors are Georgians.;All Films collectors are Cashiers.;contradiction;Contradiction.
+377;CONTRADICTION;Georgians are not Clergys, and some Films collectors are Georgians.;All Films collectors are Clergys.;contradiction;Contradiction.
+378;CONTRADICTION;Germans are not Carpenters, and some Films collectors are Germans.;All Films collectors are Carpenters.;contradiction;Contradiction.
+379;CONTRADICTION;Germans are not Cashiers, and some Films collectors are Germans.;All Films collectors are Cashiers.;contradiction;Contradiction.
+380;CONTRADICTION;Germans are not Clergys, and some Films collectors are Germans.;All Films collectors are Clergys.;contradiction;Contradiction.
+381;CONTRADICTION;Haitians are not Carpenters, and some Films collectors are Haitians.;All Films collectors are Carpenters.;contradiction;Contradiction.
+382;CONTRADICTION;Haitians are not Cashiers, and some Films collectors are Haitians.;All Films collectors are Cashiers.;contradiction;Contradiction.
+383;CONTRADICTION;Haitians are not Clergys, and some Films collectors are Haitians.;All Films collectors are Clergys.;contradiction;Contradiction.
+384;CONTRADICTION;Gabonese are not Carpenters, and some Knife collectors are Gabonese.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+385;CONTRADICTION;Gabonese are not Cashiers, and some Knife collectors are Gabonese.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+386;CONTRADICTION;Gabonese are not Clergys, and some Knife collectors are Gabonese.;All Knife collectors are Clergys.;contradiction;Contradiction.
+387;CONTRADICTION;Georgians are not Carpenters, and some Knife collectors are Georgians.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+388;CONTRADICTION;Georgians are not Cashiers, and some Knife collectors are Georgians.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+389;CONTRADICTION;Georgians are not Clergys, and some Knife collectors are Georgians.;All Knife collectors are Clergys.;contradiction;Contradiction.
+390;CONTRADICTION;Germans are not Carpenters, and some Knife collectors are Germans.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+391;CONTRADICTION;Germans are not Cashiers, and some Knife collectors are Germans.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+392;CONTRADICTION;Germans are not Clergys, and some Knife collectors are Germans.;All Knife collectors are Clergys.;contradiction;Contradiction.
+393;CONTRADICTION;Haitians are not Carpenters, and some Knife collectors are Haitians.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+394;CONTRADICTION;Haitians are not Cashiers, and some Knife collectors are Haitians.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+395;CONTRADICTION;Haitians are not Clergys, and some Knife collectors are Haitians.;All Knife collectors are Clergys.;contradiction;Contradiction.
+396;NEUTRAL;Some Gabonese are not Carpenters, and some Element collectors are Gabonese.;Some Element collectors are not Carpenters.;neutral;Entailment.
+397;NEUTRAL;Some Gabonese are not Cashiers, and some Element collectors are Gabonese.;Some Element collectors are not Cashiers.;neutral;Entailment.
+398;NEUTRAL;Some Gabonese are not Clergys, and some Element collectors are Gabonese.;Some Element collectors are not Clergys.;neutral;Entailment.
+399;NEUTRAL;Some Georgians are not Carpenters, and some Element collectors are Georgians.;Some Element collectors are not Carpenters.;neutral;Entailment.
+400;NEUTRAL;Some Georgians are not Cashiers, and some Element collectors are Georgians.;Some Element collectors are not Cashiers.;neutral;Entailment.
+401;NEUTRAL;Some Georgians are not Clergys, and some Element collectors are Georgians.;Some Element collectors are not Clergys.;neutral;Entailment.
+402;NEUTRAL;Some Germans are not Carpenters, and some Element collectors are Germans.;Some Element collectors are not Carpenters.;neutral;Entailment.
+403;NEUTRAL;Some Germans are not Cashiers, and some Element collectors are Germans.;Some Element collectors are not Cashiers.;neutral;Entailment.
+404;NEUTRAL;Some Germans are not Clergys, and some Element collectors are Germans.;Some Element collectors are not Clergys.;neutral;Entailment.
+405;NEUTRAL;Some Haitians are not Carpenters, and some Element collectors are Haitians.;Some Element collectors are not Carpenters.;neutral;Entailment.
+406;NEUTRAL;Some Haitians are not Cashiers, and some Element collectors are Haitians.;Some Element collectors are not Cashiers.;neutral;Entailment.
+407;NEUTRAL;Some Haitians are not Clergys, and some Element collectors are Haitians.;Some Element collectors are not Clergys.;neutral;Entailment.
+408;NEUTRAL;Some Gabonese are not Carpenters, and some Films collectors are Gabonese.;Some Films collectors are not Carpenters.;neutral;Entailment.
+409;NEUTRAL;Some Gabonese are not Cashiers, and some Films collectors are Gabonese.;Some Films collectors are not Cashiers.;neutral;Entailment.
+410;NEUTRAL;Some Gabonese are not Clergys, and some Films collectors are Gabonese.;Some Films collectors are not Clergys.;neutral;Entailment.
+411;NEUTRAL;Some Georgians are not Carpenters, and some Films collectors are Georgians.;Some Films collectors are not Carpenters.;neutral;Entailment.
+412;NEUTRAL;Some Georgians are not Cashiers, and some Films collectors are Georgians.;Some Films collectors are not Cashiers.;neutral;Entailment.
+413;NEUTRAL;Some Georgians are not Clergys, and some Films collectors are Georgians.;Some Films collectors are not Clergys.;neutral;Entailment.
+414;NEUTRAL;Some Germans are not Carpenters, and some Films collectors are Germans.;Some Films collectors are not Carpenters.;neutral;Entailment.
+415;NEUTRAL;Some Germans are not Cashiers, and some Films collectors are Germans.;Some Films collectors are not Cashiers.;neutral;Entailment.
+416;NEUTRAL;Some Germans are not Clergys, and some Films collectors are Germans.;Some Films collectors are not Clergys.;neutral;Entailment.
+417;NEUTRAL;Some Haitians are not Carpenters, and some Films collectors are Haitians.;Some Films collectors are not Carpenters.;neutral;Entailment.
+418;NEUTRAL;Some Haitians are not Cashiers, and some Films collectors are Haitians.;Some Films collectors are not Cashiers.;neutral;Entailment.
+419;NEUTRAL;Some Haitians are not Clergys, and some Films collectors are Haitians.;Some Films collectors are not Clergys.;neutral;Entailment.
+420;NEUTRAL;Some Gabonese are not Carpenters, and some Knife collectors are Gabonese.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+421;NEUTRAL;Some Gabonese are not Cashiers, and some Knife collectors are Gabonese.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+422;NEUTRAL;Some Gabonese are not Clergys, and some Knife collectors are Gabonese.;Some Knife collectors are not Clergys.;neutral;Entailment.
+423;NEUTRAL;Some Georgians are not Carpenters, and some Knife collectors are Georgians.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+424;NEUTRAL;Some Georgians are not Cashiers, and some Knife collectors are Georgians.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+425;NEUTRAL;Some Georgians are not Clergys, and some Knife collectors are Georgians.;Some Knife collectors are not Clergys.;neutral;Entailment.
+426;NEUTRAL;Some Germans are not Carpenters, and some Knife collectors are Germans.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+427;NEUTRAL;Some Germans are not Cashiers, and some Knife collectors are Germans.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+428;NEUTRAL;Some Germans are not Clergys, and some Knife collectors are Germans.;Some Knife collectors are not Clergys.;neutral;Entailment.
+429;NEUTRAL;Some Haitians are not Carpenters, and some Knife collectors are Haitians.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+430;NEUTRAL;Some Haitians are not Cashiers, and some Knife collectors are Haitians.;Some Knife collectors are not Cashiers.;neutral;Neutral.
+431;NEUTRAL;Some Haitians are not Clergys, and some Knife collectors are Haitians.;Some Knife collectors are not Clergys.;neutral;Entailment.
+432;CESARE;Carpenters are not Gabonese, and all Element collectors are Gabonese.;Element collectors are not Carpenters.;entailment;Contradiction.
+433;CESARE;Cashiers are not Gabonese, and all Element collectors are Gabonese.;Element collectors are not Cashiers.;entailment;Contradiction.
+434;CESARE;Clergys are not Gabonese, and all Element collectors are Gabonese.;Element collectors are not Clergys.;entailment;Contradiction.
+435;CESARE;Carpenters are not Georgians, and all Element collectors are Georgians.;Element collectors are not Carpenters.;entailment;Contradiction.
+436;CESARE;Cashiers are not Georgians, and all Element collectors are Georgians.;Element collectors are not Cashiers.;entailment;contradiction.
+437;CESARE;Clergys are not Georgians, and all Element collectors are Georgians.;Element collectors are not Clergys.;entailment;Contradiction.
+438;CESARE;Carpenters are not Germans, and all Element collectors are Germans.;Element collectors are not Carpenters.;entailment;Contradiction.
+439;CESARE;Cashiers are not Germans, and all Element collectors are Germans.;Element collectors are not Cashiers.;entailment;Contradiction.
+440;CESARE;Clergys are not Germans, and all Element collectors are Germans.;Element collectors are not Clergys.;entailment;Contradiction.
+441;CESARE;Carpenters are not Haitians, and all Element collectors are Haitians.;Element collectors are not Carpenters.;entailment;Contradiction.
+442;CESARE;Cashiers are not Haitians, and all Element collectors are Haitians.;Element collectors are not Cashiers.;entailment;Contradiction.
+443;CESARE;Clergys are not Haitians, and all Element collectors are Haitians.;Element collectors are not Clergys.;entailment;Contradiction.
+444;CESARE;Carpenters are not Gabonese, and all Films collectors are Gabonese.;Films collectors are not Carpenters.;entailment;Entailment.
+445;CESARE;Cashiers are not Gabonese, and all Films collectors are Gabonese.;Films collectors are not Cashiers.;entailment;Contradiction.
+446;CESARE;Clergys are not Gabonese, and all Films collectors are Gabonese.;Films collectors are not Clergys.;entailment;Contradiction.
+447;CESARE;Carpenters are not Georgians, and all Films collectors are Georgians.;Films collectors are not Carpenters.;entailment;Entailment.
+448;CESARE;Cashiers are not Georgians, and all Films collectors are Georgians.;Films collectors are not Cashiers.;entailment;Contradiction.
+449;CESARE;Clergys are not Georgians, and all Films collectors are Georgians.;Films collectors are not Clergys.;entailment;Contradiction.
+450;CESARE;Carpenters are not Germans, and all Films collectors are Germans.;Films collectors are not Carpenters.;entailment;Entailment.
+451;CESARE;Cashiers are not Germans, and all Films collectors are Germans.;Films collectors are not Cashiers.;entailment;Contradiction.
+452;CESARE;Clergys are not Germans, and all Films collectors are Germans.;Films collectors are not Clergys.;entailment;Contradiction.
+453;CESARE;Carpenters are not Haitians, and all Films collectors are Haitians.;Films collectors are not Carpenters.;entailment;Entailment.
+454;CESARE;Cashiers are not Haitians, and all Films collectors are Haitians.;Films collectors are not Cashiers.;entailment;Contradiction.
+455;CESARE;Clergys are not Haitians, and all Films collectors are Haitians.;Films collectors are not Clergys.;entailment;contradiction
+456;CESARE;Carpenters are not Gabonese, and all Knife collectors are Gabonese.;Knife collectors are not Carpenters.;entailment;Entailment.
+457;CESARE;Cashiers are not Gabonese, and all Knife collectors are Gabonese.;Knife collectors are not Cashiers.;entailment;Contradiction.
+458;CESARE;Clergys are not Gabonese, and all Knife collectors are Gabonese.;Knife collectors are not Clergys.;entailment;Contradiction.
+459;CESARE;Carpenters are not Georgians, and all Knife collectors are Georgians.;Knife collectors are not Carpenters.;entailment;Entailment.
+460;CESARE;Cashiers are not Georgians, and all Knife collectors are Georgians.;Knife collectors are not Cashiers.;entailment;Contradiction.
+461;CESARE;Clergys are not Georgians, and all Knife collectors are Georgians.;Knife collectors are not Clergys.;entailment;contradiction.
+462;CESARE;Carpenters are not Germans, and all Knife collectors are Germans.;Knife collectors are not Carpenters.;entailment;Entailment.
+463;CESARE;Cashiers are not Germans, and all Knife collectors are Germans.;Knife collectors are not Cashiers.;entailment;Contradiction.
+464;CESARE;Clergys are not Germans, and all Knife collectors are Germans.;Knife collectors are not Clergys.;entailment;Contradiction.
+465;CESARE;Carpenters are not Haitians, and all Knife collectors are Haitians.;Knife collectors are not Carpenters.;entailment;Entailment.
+466;CESARE;Cashiers are not Haitians, and all Knife collectors are Haitians.;Knife collectors are not Cashiers.;entailment;Contradiction.
+467;CESARE;Clergys are not Haitians, and all Knife collectors are Haitians.;Knife collectors are not Clergys.;entailment;Contradiction.
+468;CONTRADICTION;Carpenters are not Gabonese, and all Element collectors are Gabonese.;Element collectors are Carpenters.;contradiction;Contradiction.
+469;CONTRADICTION;Cashiers are not Gabonese, and all Element collectors are Gabonese.;Element collectors are Cashiers.;contradiction;Contradiction.
+470;CONTRADICTION;Clergys are not Gabonese, and all Element collectors are Gabonese.;Element collectors are Clergys.;contradiction;Contradiction.
+471;CONTRADICTION;Carpenters are not Georgians, and all Element collectors are Georgians.;Element collectors are Carpenters.;contradiction;Contradiction.
+472;CONTRADICTION;Cashiers are not Georgians, and all Element collectors are Georgians.;Element collectors are Cashiers.;contradiction;Contradiction.
+473;CONTRADICTION;Clergys are not Georgians, and all Element collectors are Georgians.;Element collectors are Clergys.;contradiction;Neutral.
+474;CONTRADICTION;Carpenters are not Germans, and all Element collectors are Germans.;Element collectors are Carpenters.;contradiction;Contradiction.
+475;CONTRADICTION;Cashiers are not Germans, and all Element collectors are Germans.;Element collectors are Cashiers.;contradiction;Contradiction.
+476;CONTRADICTION;Clergys are not Germans, and all Element collectors are Germans.;Element collectors are Clergys.;contradiction;Contradiction.
+477;CONTRADICTION;Carpenters are not Haitians, and all Element collectors are Haitians.;Element collectors are Carpenters.;contradiction;Contradiction.
+478;CONTRADICTION;Cashiers are not Haitians, and all Element collectors are Haitians.;Element collectors are Cashiers.;contradiction;Contradiction.
+479;CONTRADICTION;Clergys are not Haitians, and all Element collectors are Haitians.;Element collectors are Clergys.;contradiction;Contradiction.
+480;CONTRADICTION;Carpenters are not Gabonese, and all Films collectors are Gabonese.;Films collectors are Carpenters.;contradiction;Contradiction.
+481;CONTRADICTION;Cashiers are not Gabonese, and all Films collectors are Gabonese.;Films collectors are Cashiers.;contradiction;Contradiction.
+482;CONTRADICTION;Clergys are not Gabonese, and all Films collectors are Gabonese.;Films collectors are Clergys.;contradiction;Contradiction.
+483;CONTRADICTION;Carpenters are not Georgians, and all Films collectors are Georgians.;Films collectors are Carpenters.;contradiction;Contradiction.
+484;CONTRADICTION;Cashiers are not Georgians, and all Films collectors are Georgians.;Films collectors are Cashiers.;contradiction;Contradiction.
+485;CONTRADICTION;Clergys are not Georgians, and all Films collectors are Georgians.;Films collectors are Clergys.;contradiction;Contradiction.
+486;CONTRADICTION;Carpenters are not Germans, and all Films collectors are Germans.;Films collectors are Carpenters.;contradiction;Contradiction.
+487;CONTRADICTION;Cashiers are not Germans, and all Films collectors are Germans.;Films collectors are Cashiers.;contradiction;Contradiction.
+488;CONTRADICTION;Clergys are not Germans, and all Films collectors are Germans.;Films collectors are Clergys.;contradiction;Contradiction.
+489;CONTRADICTION;Carpenters are not Haitians, and all Films collectors are Haitians.;Films collectors are Carpenters.;contradiction;Contradiction.
+490;CONTRADICTION;Cashiers are not Haitians, and all Films collectors are Haitians.;Films collectors are Cashiers.;contradiction;Contradiction.
+491;CONTRADICTION;Clergys are not Haitians, and all Films collectors are Haitians.;Films collectors are Clergys.;contradiction;Contradiction.
+492;CONTRADICTION;Carpenters are not Gabonese, and all Knife collectors are Gabonese.;Knife collectors are Carpenters.;contradiction;Contradiction.
+493;CONTRADICTION;Cashiers are not Gabonese, and all Knife collectors are Gabonese.;Knife collectors are Cashiers.;contradiction;Contradiction.
+494;CONTRADICTION;Clergys are not Gabonese, and all Knife collectors are Gabonese.;Knife collectors are Clergys.;contradiction;contradiction.
+495;CONTRADICTION;Carpenters are not Georgians, and all Knife collectors are Georgians.;Knife collectors are Carpenters.;contradiction;Contradiction.
+496;CONTRADICTION;Cashiers are not Georgians, and all Knife collectors are Georgians.;Knife collectors are Cashiers.;contradiction;Contradiction.
+497;CONTRADICTION;Clergys are not Georgians, and all Knife collectors are Georgians.;Knife collectors are Clergys.;contradiction;Contradiction.
+498;CONTRADICTION;Carpenters are not Germans, and all Knife collectors are Germans.;Knife collectors are Carpenters.;contradiction;Contradiction.
+499;CONTRADICTION;Cashiers are not Germans, and all Knife collectors are Germans.;Knife collectors are Cashiers.;contradiction;Contradiction.
+500;CONTRADICTION;Clergys are not Germans, and all Knife collectors are Germans.;Knife collectors are Clergys.;contradiction;Contradiction.
+501;CONTRADICTION;Carpenters are not Haitians, and all Knife collectors are Haitians.;Knife collectors are Carpenters.;contradiction;Contradiction.
+502;CONTRADICTION;Cashiers are not Haitians, and all Knife collectors are Haitians.;Knife collectors are Cashiers.;contradiction;Contradiction.
+503;CONTRADICTION;Clergys are not Haitians, and all Knife collectors are Haitians.;Knife collectors are Clergys.;contradiction;Contradiction.
+504;NEUTRAL;Carpenters are not Gabonese, and some Element collectors are Gabonese.;Element collectors are not Carpenters.;neutral;Contradiction.
+505;NEUTRAL;Cashiers are not Gabonese, and some Element collectors are Gabonese.;Element collectors are not Cashiers.;neutral;Contradiction.
+506;NEUTRAL;Clergys are not Gabonese, and some Element collectors are Gabonese.;Element collectors are not Clergys.;neutral;Contradiction.
+507;NEUTRAL;Carpenters are not Georgians, and some Element collectors are Georgians.;Element collectors are not Carpenters.;neutral;Contradiction.
+508;NEUTRAL;Cashiers are not Georgians, and some Element collectors are Georgians.;Element collectors are not Cashiers.;neutral;Contradiction.
+509;NEUTRAL;Clergys are not Georgians, and some Element collectors are Georgians.;Element collectors are not Clergys.;neutral;Contradiction.
+510;NEUTRAL;Carpenters are not Germans, and some Element collectors are Germans.;Element collectors are not Carpenters.;neutral;Contradiction.
+511;NEUTRAL;Cashiers are not Germans, and some Element collectors are Germans.;Element collectors are not Cashiers.;neutral;Contradiction.
+512;NEUTRAL;Clergys are not Germans, and some Element collectors are Germans.;Element collectors are not Clergys.;neutral;contradiction.
+513;NEUTRAL;Carpenters are not Haitians, and some Element collectors are Haitians.;Element collectors are not Carpenters.;neutral;Contradiction.
+514;NEUTRAL;Cashiers are not Haitians, and some Element collectors are Haitians.;Element collectors are not Cashiers.;neutral;Contradiction.
+515;NEUTRAL;Clergys are not Haitians, and some Element collectors are Haitians.;Element collectors are not Clergys.;neutral;Contradiction.
+516;NEUTRAL;Carpenters are not Gabonese, and some Films collectors are Gabonese.;Films collectors are not Carpenters.;neutral;Entailment.
+517;NEUTRAL;Cashiers are not Gabonese, and some Films collectors are Gabonese.;Films collectors are not Cashiers.;neutral;Contradiction.
+518;NEUTRAL;Clergys are not Gabonese, and some Films collectors are Gabonese.;Films collectors are not Clergys.;neutral;Contradiction.
+519;NEUTRAL;Carpenters are not Georgians, and some Films collectors are Georgians.;Films collectors are not Carpenters.;neutral;Contradiction.
+520;NEUTRAL;Cashiers are not Georgians, and some Films collectors are Georgians.;Films collectors are not Cashiers.;neutral;Contradiction.
+521;NEUTRAL;Clergys are not Georgians, and some Films collectors are Georgians.;Films collectors are not Clergys.;neutral;Contradiction.
+522;NEUTRAL;Carpenters are not Germans, and some Films collectors are Germans.;Films collectors are not Carpenters.;neutral;Contradiction.
+523;NEUTRAL;Cashiers are not Germans, and some Films collectors are Germans.;Films collectors are not Cashiers.;neutral;Contradiction.
+524;NEUTRAL;Clergys are not Germans, and some Films collectors are Germans.;Films collectors are not Clergys.;neutral;Contradiction.
+525;NEUTRAL;Carpenters are not Haitians, and some Films collectors are Haitians.;Films collectors are not Carpenters.;neutral;Contradiction.
+526;NEUTRAL;Cashiers are not Haitians, and some Films collectors are Haitians.;Films collectors are not Cashiers.;neutral;Contradiction.
+527;NEUTRAL;Clergys are not Haitians, and some Films collectors are Haitians.;Films collectors are not Clergys.;neutral;Contradiction.
+528;NEUTRAL;Carpenters are not Gabonese, and some Knife collectors are Gabonese.;Knife collectors are not Carpenters.;neutral;Contradiction.
+529;NEUTRAL;Cashiers are not Gabonese, and some Knife collectors are Gabonese.;Knife collectors are not Cashiers.;neutral;Contradiction.
+530;NEUTRAL;Clergys are not Gabonese, and some Knife collectors are Gabonese.;Knife collectors are not Clergys.;neutral;Contradiction.
+531;NEUTRAL;Carpenters are not Georgians, and some Knife collectors are Georgians.;Knife collectors are not Carpenters.;neutral;Contradiction.
+532;NEUTRAL;Cashiers are not Georgians, and some Knife collectors are Georgians.;Knife collectors are not Cashiers.;neutral;Contradiction.
+533;NEUTRAL;Clergys are not Georgians, and some Knife collectors are Georgians.;Knife collectors are not Clergys.;neutral;Contradiction.
+534;NEUTRAL;Carpenters are not Germans, and some Knife collectors are Germans.;Knife collectors are not Carpenters.;neutral;Contradiction.
+535;NEUTRAL;Cashiers are not Germans, and some Knife collectors are Germans.;Knife collectors are not Cashiers.;neutral;Contradiction.
+536;NEUTRAL;Clergys are not Germans, and some Knife collectors are Germans.;Knife collectors are not Clergys.;neutral;Contradiction.
+537;NEUTRAL;Carpenters are not Haitians, and some Knife collectors are Haitians.;Knife collectors are not Carpenters.;neutral;Entailment.
+538;NEUTRAL;Cashiers are not Haitians, and some Knife collectors are Haitians.;Knife collectors are not Cashiers.;neutral;Contradiction.
+539;NEUTRAL;Clergys are not Haitians, and some Knife collectors are Haitians.;Knife collectors are not Clergys.;neutral;contradiction.
+540;CAMESTRES;All Carpenters are Gabonese, and no Element collector is a Gabonese.;Element collectors are not Carpenters.;entailment;Entailment.
+541;CAMESTRES;All Cashiers are Gabonese, and no Element collector is a Gabonese.;Element collectors are not Cashiers.;entailment;Entailment.
+542;CAMESTRES;All Clergys are Gabonese, and no Element collector is a Gabonese.;Element collectors are not Clergys.;entailment;Contradiction.
+543;CAMESTRES;All Carpenters are Georgians, and no Element collector is a Georgian.;Element collectors are not Carpenters.;entailment;Contradiction.
+544;CAMESTRES;All Cashiers are Georgians, and no Element collector is a Georgian.;Element collectors are not Cashiers.;entailment;Entailment.
+545;CAMESTRES;All Clergys are Georgians, and no Element collector is a Georgian.;Element collectors are not Clergys.;entailment;Entailment.
+546;CAMESTRES;All Carpenters are Germans, and no Element collector is a German.;Element collectors are not Carpenters.;entailment;Entailment.
+547;CAMESTRES;All Cashiers are Germans, and no Element collector is a German.;Element collectors are not Cashiers.;entailment;Contradiction.
+548;CAMESTRES;All Clergys are Germans, and no Element collector is a German.;Element collectors are not Clergys.;entailment;Entailment.
+549;CAMESTRES;All Carpenters are Haitians, and no Element collector is a Haitian.;Element collectors are not Carpenters.;entailment;Entailment.
+550;CAMESTRES;All Cashiers are Haitians, and no Element collector is a Haitian.;Element collectors are not Cashiers.;entailment;Entailment.
+551;CAMESTRES;All Clergys are Haitians, and no Element collector is a Haitian.;Element collectors are not Clergys.;entailment;Contradiction.
+552;CAMESTRES;All Carpenters are Gabonese, and no Films collector is a Gabonese.;Films collectors are not Carpenters.;entailment;Entailment.
+553;CAMESTRES;All Cashiers are Gabonese, and no Films collector is a Gabonese.;Films collectors are not Cashiers.;entailment;Entailment.
+554;CAMESTRES;All Clergys are Gabonese, and no Films collector is a Gabonese.;Films collectors are not Clergys.;entailment;contradiction.
+555;CAMESTRES;All Carpenters are Georgians, and no Films collector is a Georgian.;Films collectors are not Carpenters.;entailment;Contradiction.
+556;CAMESTRES;All Cashiers are Georgians, and no Films collector is a Georgian.;Films collectors are not Cashiers.;entailment;entailment.
+557;CAMESTRES;All Clergys are Georgians, and no Films collector is a Georgian.;Films collectors are not Clergys.;entailment;entailment.
+558;CAMESTRES;All Carpenters are Germans, and no Films collector is a German.;Films collectors are not Carpenters.;entailment;Entailment.
+559;CAMESTRES;All Cashiers are Germans, and no Films collector is a German.;Films collectors are not Cashiers.;entailment;Entailment.
+560;CAMESTRES;All Clergys are Germans, and no Films collector is a German.;Films collectors are not Clergys.;entailment;Contradiction.
+561;CAMESTRES;All Carpenters are Haitians, and no Films collector is a Haitian.;Films collectors are not Carpenters.;entailment;Entailment.
+562;CAMESTRES;All Cashiers are Haitians, and no Films collector is a Haitian.;Films collectors are not Cashiers.;entailment;Entailment.
+563;CAMESTRES;All Clergys are Haitians, and no Films collector is a Haitian.;Films collectors are not Clergys.;entailment;Entailment.
+564;CAMESTRES;All Carpenters are Gabonese, and no Knife collector is a Gabonese.;Knife collectors are not Carpenters.;entailment;Entailment.
+565;CAMESTRES;All Cashiers are Gabonese, and no Knife collector is a Gabonese.;Knife collectors are not Cashiers.;entailment;Entailment.
+566;CAMESTRES;All Clergys are Gabonese, and no Knife collector is a Gabonese.;Knife collectors are not Clergys.;entailment;Contradiction.
+567;CAMESTRES;All Carpenters are Georgians, and no Knife collector is a Georgian.;Knife collectors are not Carpenters.;entailment;Entailment.
+568;CAMESTRES;All Cashiers are Georgians, and no Knife collector is a Georgian.;Knife collectors are not Cashiers.;entailment;Contradiction.
+569;CAMESTRES;All Clergys are Georgians, and no Knife collector is a Georgian.;Knife collectors are not Clergys.;entailment;Entailment.
+570;CAMESTRES;All Carpenters are Germans, and no Knife collector is a German.;Knife collectors are not Carpenters.;entailment;Entailment.
+571;CAMESTRES;All Cashiers are Germans, and no Knife collector is a German.;Knife collectors are not Cashiers.;entailment;Entailment.
+572;CAMESTRES;All Clergys are Germans, and no Knife collector is a German.;Knife collectors are not Clergys.;entailment;Entailment.
+573;CAMESTRES;All Carpenters are Haitians, and no Knife collector is a Haitian.;Knife collectors are not Carpenters.;entailment;entailment.
+574;CAMESTRES;All Cashiers are Haitians, and no Knife collector is a Haitian.;Knife collectors are not Cashiers.;entailment;Entailment.
+575;CAMESTRES;All Clergys are Haitians, and no Knife collector is a Haitian.;Knife collectors are not Clergys.;entailment;Entailment.
+576;CONTRADICTION;All Carpenters are Gabonese, and no Element collector is a Gabonese.;Element collectors are Carpenters.;contradiction;Contradiction.
+577;CONTRADICTION;All Cashiers are Gabonese, and no Element collector is a Gabonese.;Element collectors are Cashiers.;contradiction;Contradiction.
+578;CONTRADICTION;All Clergys are Gabonese, and no Element collector is a Gabonese.;Element collectors are Clergys.;contradiction;Contradiction.
+579;CONTRADICTION;All Carpenters are Georgians, and no Element collector is a Georgian.;Element collectors are Carpenters.;contradiction;Contradiction.
+580;CONTRADICTION;All Cashiers are Georgians, and no Element collector is a Georgian.;Element collectors are Cashiers.;contradiction;Contradiction.
+581;CONTRADICTION;All Clergys are Georgians, and no Element collector is a Georgian.;Element collectors are Clergys.;contradiction;Contradiction.
+582;CONTRADICTION;All Carpenters are Germans, and no Element collector is a German.;Element collectors are Carpenters.;contradiction;Contradiction.
+583;CONTRADICTION;All Cashiers are Germans, and no Element collector is a German.;Element collectors are Cashiers.;contradiction;Contradiction.
+584;CONTRADICTION;All Clergys are Germans, and no Element collector is a German.;Element collectors are Clergys.;contradiction;Contradiction.
+585;CONTRADICTION;All Carpenters are Haitians, and no Element collector is a Haitian.;Element collectors are Carpenters.;contradiction;contradiction.
+586;CONTRADICTION;All Cashiers are Haitians, and no Element collector is a Haitian.;Element collectors are Cashiers.;contradiction;Contradiction.
+587;CONTRADICTION;All Clergys are Haitians, and no Element collector is a Haitian.;Element collectors are Clergys.;contradiction;Contradiction.
+588;CONTRADICTION;All Carpenters are Gabonese, and no Films collector is a Gabonese.;Films collectors are Carpenters.;contradiction;Contradiction.
+589;CONTRADICTION;All Cashiers are Gabonese, and no Films collector is a Gabonese.;Films collectors are Cashiers.;contradiction;Contradiction.
+590;CONTRADICTION;All Clergys are Gabonese, and no Films collector is a Gabonese.;Films collectors are Clergys.;contradiction;Contradiction.
+591;CONTRADICTION;All Carpenters are Georgians, and no Films collector is a Georgian.;Films collectors are Carpenters.;contradiction;Contradiction.
+592;CONTRADICTION;All Cashiers are Georgians, and no Films collector is a Georgian.;Films collectors are Cashiers.;contradiction;Contradiction.
+593;CONTRADICTION;All Clergys are Georgians, and no Films collector is a Georgian.;Films collectors are Clergys.;contradiction;Contradiction.
+594;CONTRADICTION;All Carpenters are Germans, and no Films collector is a German.;Films collectors are Carpenters.;contradiction;Contradiction.
+595;CONTRADICTION;All Cashiers are Germans, and no Films collector is a German.;Films collectors are Cashiers.;contradiction;Contradiction.
+596;CONTRADICTION;All Clergys are Germans, and no Films collector is a German.;Films collectors are Clergys.;contradiction;Contradiction.
+597;CONTRADICTION;All Carpenters are Haitians, and no Films collector is a Haitian.;Films collectors are Carpenters.;contradiction;Contradiction.
+598;CONTRADICTION;All Cashiers are Haitians, and no Films collector is a Haitian.;Films collectors are Cashiers.;contradiction;Contradiction.
+599;CONTRADICTION;All Clergys are Haitians, and no Films collector is a Haitian.;Films collectors are Clergys.;contradiction;Contradiction.
+600;CONTRADICTION;All Carpenters are Gabonese, and no Knife collector is a Gabonese.;Knife collectors are Carpenters.;contradiction;Contradiction.
+601;CONTRADICTION;All Cashiers are Gabonese, and no Knife collector is a Gabonese.;Knife collectors are Cashiers.;contradiction;Contradiction.
+602;CONTRADICTION;All Clergys are Gabonese, and no Knife collector is a Gabonese.;Knife collectors are Clergys.;contradiction;Contradiction.
+603;CONTRADICTION;All Carpenters are Georgians, and no Knife collector is a Georgian.;Knife collectors are Carpenters.;contradiction;contradiction.
+604;CONTRADICTION;All Cashiers are Georgians, and no Knife collector is a Georgian.;Knife collectors are Cashiers.;contradiction;Contradiction.
+605;CONTRADICTION;All Clergys are Georgians, and no Knife collector is a Georgian.;Knife collectors are Clergys.;contradiction;contradiction.
+606;CONTRADICTION;All Carpenters are Germans, and no Knife collector is a German.;Knife collectors are Carpenters.;contradiction;The relation between the two sentences is contradiction.
+607;CONTRADICTION;All Cashiers are Germans, and no Knife collector is a German.;Knife collectors are Cashiers.;contradiction;Contradiction.
+608;CONTRADICTION;All Clergys are Germans, and no Knife collector is a German.;Knife collectors are Clergys.;contradiction;Contradiction.
+609;CONTRADICTION;All Carpenters are Haitians, and no Knife collector is a Haitian.;Knife collectors are Carpenters.;contradiction;Contradiction.
+610;CONTRADICTION;All Cashiers are Haitians, and no Knife collector is a Haitian.;Knife collectors are Cashiers.;contradiction;Contradiction.
+611;CONTRADICTION;All Clergys are Haitians, and no Knife collector is a Haitian.;Knife collectors are Clergys.;contradiction;Contradiction.
+612;NEUTRAL;Some Carpenters are Gabonese, and some Element collectors are Gabonese.;Element collectors are not Carpenters.;neutral;Contradiction.
+613;NEUTRAL;Some Cashiers are Gabonese, and some Element collectors are Gabonese.;Element collectors are not Cashiers.;neutral;Contradiction.
+614;NEUTRAL;Some Clergys are Gabonese, and some Element collectors are Gabonese.;Element collectors are not Clergys.;neutral;Contradiction.
+615;NEUTRAL;Some Carpenters are Georgians, and some Element collectors are Georgians.;Element collectors are not Carpenters.;neutral;Contradiction.
+616;NEUTRAL;Some Cashiers are Georgians, and some Element collectors are Georgians.;Element collectors are not Cashiers.;neutral;Contradiction.
+617;NEUTRAL;Some Clergys are Georgians, and some Element collectors are Georgians.;Element collectors are not Clergys.;neutral;contradiction.
+618;NEUTRAL;Some Carpenters are Germans, and some Element collectors are Germans.;Element collectors are not Carpenters.;neutral;Contradiction.
+619;NEUTRAL;Some Cashiers are Germans, and some Element collectors are Germans.;Element collectors are not Cashiers.;neutral;contradiction.
+620;NEUTRAL;Some Clergys are Germans, and some Element collectors are Germans.;Element collectors are not Clergys.;neutral;Contradiction.
+621;NEUTRAL;Some Carpenters are Haitians, and some Element collectors are Haitians.;Element collectors are not Carpenters.;neutral;Contradiction.
+622;NEUTRAL;Some Cashiers are Haitians, and some Element collectors are Haitians.;Element collectors are not Cashiers.;neutral;Contradiction.
+623;NEUTRAL;Some Clergys are Haitians, and some Element collectors are Haitians.;Element collectors are not Clergys.;neutral;Contradiction.
+624;NEUTRAL;Some Carpenters are Gabonese, and some Films collectors are Gabonese.;Films collectors are not Carpenters.;neutral;Contradiction.
+625;NEUTRAL;Some Cashiers are Gabonese, and some Films collectors are Gabonese.;Films collectors are not Cashiers.;neutral;Contradiction.
+626;NEUTRAL;Some Clergys are Gabonese, and some Films collectors are Gabonese.;Films collectors are not Clergys.;neutral;Contradiction.
+627;NEUTRAL;Some Carpenters are Georgians, and some Films collectors are Georgians.;Films collectors are not Carpenters.;neutral;Contradiction.
+628;NEUTRAL;Some Cashiers are Georgians, and some Films collectors are Georgians.;Films collectors are not Cashiers.;neutral;Contradiction.
+629;NEUTRAL;Some Clergys are Georgians, and some Films collectors are Georgians.;Films collectors are not Clergys.;neutral;Contradiction.
+630;NEUTRAL;Some Carpenters are Germans, and some Films collectors are Germans.;Films collectors are not Carpenters.;neutral;Contradiction.
+631;NEUTRAL;Some Cashiers are Germans, and some Films collectors are Germans.;Films collectors are not Cashiers.;neutral;contradiction.
+632;NEUTRAL;Some Clergys are Germans, and some Films collectors are Germans.;Films collectors are not Clergys.;neutral;Contradiction.
+633;NEUTRAL;Some Carpenters are Haitians, and some Films collectors are Haitians.;Films collectors are not Carpenters.;neutral;contradiction.
+634;NEUTRAL;Some Cashiers are Haitians, and some Films collectors are Haitians.;Films collectors are not Cashiers.;neutral;Contradiction.
+635;NEUTRAL;Some Clergys are Haitians, and some Films collectors are Haitians.;Films collectors are not Clergys.;neutral;Contradiction.
+636;NEUTRAL;Some Carpenters are Gabonese, and some Knife collectors are Gabonese.;Knife collectors are not Carpenters.;neutral;Contradiction.
+637;NEUTRAL;Some Cashiers are Gabonese, and some Knife collectors are Gabonese.;Knife collectors are not Cashiers.;neutral;Contradiction.
+638;NEUTRAL;Some Clergys are Gabonese, and some Knife collectors are Gabonese.;Knife collectors are not Clergys.;neutral;Contradiction.
+639;NEUTRAL;Some Carpenters are Georgians, and some Knife collectors are Georgians.;Knife collectors are not Carpenters.;neutral;Contradiction.
+640;NEUTRAL;Some Cashiers are Georgians, and some Knife collectors are Georgians.;Knife collectors are not Cashiers.;neutral;Contradiction.
+641;NEUTRAL;Some Clergys are Georgians, and some Knife collectors are Georgians.;Knife collectors are not Clergys.;neutral;Contradiction.
+642;NEUTRAL;Some Carpenters are Germans, and some Knife collectors are Germans.;Knife collectors are not Carpenters.;neutral;contradiction.
+643;NEUTRAL;Some Cashiers are Germans, and some Knife collectors are Germans.;Knife collectors are not Cashiers.;neutral;Contradiction.
+644;NEUTRAL;Some Clergys are Germans, and some Knife collectors are Germans.;Knife collectors are not Clergys.;neutral;Contradiction.
+645;NEUTRAL;Some Carpenters are Haitians, and some Knife collectors are Haitians.;Knife collectors are not Carpenters.;neutral;Contradiction.
+646;NEUTRAL;Some Cashiers are Haitians, and some Knife collectors are Haitians.;Knife collectors are not Cashiers.;neutral;Contradiction.
+647;NEUTRAL;Some Clergys are Haitians, and some Knife collectors are Haitians.;Knife collectors are not Clergys.;neutral;Contradiction.
+648;FESTINO;Carpenters are not Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Carpenters.;entailment;Entailment.
+649;FESTINO;Cashiers are not Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Cashiers.;entailment;Contradiction.
+650;FESTINO;Clergys are not Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Clergys.;entailment;Neutral.
+651;FESTINO;Carpenters are not Georgians, and some Element collectors are Georgians.;Some Element collectors are not Carpenters.;entailment;Entailment.
+652;FESTINO;Cashiers are not Georgians, and some Element collectors are Georgians.;Some Element collectors are not Cashiers.;entailment;Contradiction.
+653;FESTINO;Clergys are not Georgians, and some Element collectors are Georgians.;Some Element collectors are not Clergys.;entailment;Contradiction.
+654;FESTINO;Carpenters are not Germans, and some Element collectors are Germans.;Some Element collectors are not Carpenters.;entailment;Entailment.
+655;FESTINO;Cashiers are not Germans, and some Element collectors are Germans.;Some Element collectors are not Cashiers.;entailment;Entailment.
+656;FESTINO;Clergys are not Germans, and some Element collectors are Germans.;Some Element collectors are not Clergys.;entailment;Entailment.
+657;FESTINO;Carpenters are not Haitians, and some Element collectors are Haitians.;Some Element collectors are not Carpenters.;entailment;Entailment.
+658;FESTINO;Cashiers are not Haitians, and some Element collectors are Haitians.;Some Element collectors are not Cashiers.;entailment;Contradiction.
+659;FESTINO;Clergys are not Haitians, and some Element collectors are Haitians.;Some Element collectors are not Clergys.;entailment;Neutral.
+660;FESTINO;Carpenters are not Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Carpenters.;entailment;Entailment.
+661;FESTINO;Cashiers are not Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Cashiers.;entailment;Contradiction.
+662;FESTINO;Clergys are not Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Clergys.;entailment;Entailment.
+663;FESTINO;Carpenters are not Georgians, and some Films collectors are Georgians.;Some Films collectors are not Carpenters.;entailment;Entailment.
+664;FESTINO;Cashiers are not Georgians, and some Films collectors are Georgians.;Some Films collectors are not Cashiers.;entailment;Contradiction.
+665;FESTINO;Clergys are not Georgians, and some Films collectors are Georgians.;Some Films collectors are not Clergys.;entailment;Neutral.
+666;FESTINO;Carpenters are not Germans, and some Films collectors are Germans.;Some Films collectors are not Carpenters.;entailment;Entailment.
+667;FESTINO;Cashiers are not Germans, and some Films collectors are Germans.;Some Films collectors are not Cashiers.;entailment;Entailment.
+668;FESTINO;Clergys are not Germans, and some Films collectors are Germans.;Some Films collectors are not Clergys.;entailment;Entailment.
+669;FESTINO;Carpenters are not Haitians, and some Films collectors are Haitians.;Some Films collectors are not Carpenters.;entailment;Entailment.
+670;FESTINO;Cashiers are not Haitians, and some Films collectors are Haitians.;Some Films collectors are not Cashiers.;entailment;Entailment.
+671;FESTINO;Clergys are not Haitians, and some Films collectors are Haitians.;Some Films collectors are not Clergys.;entailment;Entailment.
+672;FESTINO;Carpenters are not Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+673;FESTINO;Cashiers are not Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Cashiers.;entailment;Neutral.
+674;FESTINO;Clergys are not Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Clergys.;entailment;Neutral.
+675;FESTINO;Carpenters are not Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+676;FESTINO;Cashiers are not Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Cashiers.;entailment;Neutral.
+677;FESTINO;Clergys are not Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Clergys.;entailment;Entailment.
+678;FESTINO;Carpenters are not Germans, and some Knife collectors are Germans.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+679;FESTINO;Cashiers are not Germans, and some Knife collectors are Germans.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+680;FESTINO;Clergys are not Germans, and some Knife collectors are Germans.;Some Knife collectors are not Clergys.;entailment;Entailment.
+681;FESTINO;Carpenters are not Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+682;FESTINO;Cashiers are not Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Cashiers.;entailment;Contradiction.
+683;FESTINO;Clergys are not Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Clergys.;entailment;Neutral.
+684;CONTRADICTION;Carpenters are not Gabonese, and some Element collectors are Gabonese.;All Element collectors are Carpenters.;contradiction;Contradiction.
+685;CONTRADICTION;Cashiers are not Gabonese, and some Element collectors are Gabonese.;All Element collectors are Cashiers.;contradiction;Contradiction.
+686;CONTRADICTION;Clergys are not Gabonese, and some Element collectors are Gabonese.;All Element collectors are Clergys.;contradiction;Contradiction.
+687;CONTRADICTION;Carpenters are not Georgians, and some Element collectors are Georgians.;All Element collectors are Carpenters.;contradiction;Contradiction.
+688;CONTRADICTION;Cashiers are not Georgians, and some Element collectors are Georgians.;All Element collectors are Cashiers.;contradiction;Contradiction.
+689;CONTRADICTION;Clergys are not Georgians, and some Element collectors are Georgians.;All Element collectors are Clergys.;contradiction;Contradiction.
+690;CONTRADICTION;Carpenters are not Germans, and some Element collectors are Germans.;All Element collectors are Carpenters.;contradiction;Contradiction.
+691;CONTRADICTION;Cashiers are not Germans, and some Element collectors are Germans.;All Element collectors are Cashiers.;contradiction;Contradiction.
+692;CONTRADICTION;Clergys are not Germans, and some Element collectors are Germans.;All Element collectors are Clergys.;contradiction;Entailment.
+693;CONTRADICTION;Carpenters are not Haitians, and some Element collectors are Haitians.;All Element collectors are Carpenters.;contradiction;Contradiction.
+694;CONTRADICTION;Cashiers are not Haitians, and some Element collectors are Haitians.;All Element collectors are Cashiers.;contradiction;Contradiction.
+695;CONTRADICTION;Clergys are not Haitians, and some Element collectors are Haitians.;All Element collectors are Clergys.;contradiction;Contradiction.
+696;CONTRADICTION;Carpenters are not Gabonese, and some Films collectors are Gabonese.;All Films collectors are Carpenters.;contradiction;Contradiction.
+697;CONTRADICTION;Cashiers are not Gabonese, and some Films collectors are Gabonese.;All Films collectors are Cashiers.;contradiction;Contradiction.
+698;CONTRADICTION;Clergys are not Gabonese, and some Films collectors are Gabonese.;All Films collectors are Clergys.;contradiction;Contradiction.
+699;CONTRADICTION;Carpenters are not Georgians, and some Films collectors are Georgians.;All Films collectors are Carpenters.;contradiction;Contradiction.
+700;CONTRADICTION;Cashiers are not Georgians, and some Films collectors are Georgians.;All Films collectors are Cashiers.;contradiction;Contradiction.
+701;CONTRADICTION;Clergys are not Georgians, and some Films collectors are Georgians.;All Films collectors are Clergys.;contradiction;Contradiction.
+702;CONTRADICTION;Carpenters are not Germans, and some Films collectors are Germans.;All Films collectors are Carpenters.;contradiction;Neutral.
+703;CONTRADICTION;Cashiers are not Germans, and some Films collectors are Germans.;All Films collectors are Cashiers.;contradiction;Contradiction.
+704;CONTRADICTION;Clergys are not Germans, and some Films collectors are Germans.;All Films collectors are Clergys.;contradiction;Contradiction.
+705;CONTRADICTION;Carpenters are not Haitians, and some Films collectors are Haitians.;All Films collectors are Carpenters.;contradiction;Contradiction.
+706;CONTRADICTION;Cashiers are not Haitians, and some Films collectors are Haitians.;All Films collectors are Cashiers.;contradiction;Contradiction.
+707;CONTRADICTION;Clergys are not Haitians, and some Films collectors are Haitians.;All Films collectors are Clergys.;contradiction;Contradiction.
+708;CONTRADICTION;Carpenters are not Gabonese, and some Knife collectors are Gabonese.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+709;CONTRADICTION;Cashiers are not Gabonese, and some Knife collectors are Gabonese.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+710;CONTRADICTION;Clergys are not Gabonese, and some Knife collectors are Gabonese.;All Knife collectors are Clergys.;contradiction;Contradiction.
+711;CONTRADICTION;Carpenters are not Georgians, and some Knife collectors are Georgians.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+712;CONTRADICTION;Cashiers are not Georgians, and some Knife collectors are Georgians.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+713;CONTRADICTION;Clergys are not Georgians, and some Knife collectors are Georgians.;All Knife collectors are Clergys.;contradiction;Contradiction.
+714;CONTRADICTION;Carpenters are not Germans, and some Knife collectors are Germans.;All Knife collectors are Carpenters.;contradiction;Neutral.
+715;CONTRADICTION;Cashiers are not Germans, and some Knife collectors are Germans.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+716;CONTRADICTION;Clergys are not Germans, and some Knife collectors are Germans.;All Knife collectors are Clergys.;contradiction;Contradiction.
+717;CONTRADICTION;Carpenters are not Haitians, and some Knife collectors are Haitians.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+718;CONTRADICTION;Cashiers are not Haitians, and some Knife collectors are Haitians.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+719;CONTRADICTION;Clergys are not Haitians, and some Knife collectors are Haitians.;All Knife collectors are Clergys.;contradiction;Contradiction.
+720;NEUTRAL;Some Carpenters are not Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Carpenters.;neutral;Neutral.
+721;NEUTRAL;Some Cashiers are not Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Cashiers.;neutral;Contradiction.
+722;NEUTRAL;Some Clergys are not Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Clergys.;neutral;Neutral.
+723;NEUTRAL;Some Carpenters are not Georgians, and some Element collectors are Georgians.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+724;NEUTRAL;Some Cashiers are not Georgians, and some Element collectors are Georgians.;Some Element collectors are not Cashiers.;neutral;contradiction
+725;NEUTRAL;Some Clergys are not Georgians, and some Element collectors are Georgians.;Some Element collectors are not Clergys.;neutral;Neutral.
+726;NEUTRAL;Some Carpenters are not Germans, and some Element collectors are Germans.;Some Element collectors are not Carpenters.;neutral;Entailment.
+727;NEUTRAL;Some Cashiers are not Germans, and some Element collectors are Germans.;Some Element collectors are not Cashiers.;neutral;Contradiction.
+728;NEUTRAL;Some Clergys are not Germans, and some Element collectors are Germans.;Some Element collectors are not Clergys.;neutral;Entailment.
+729;NEUTRAL;Some Carpenters are not Haitians, and some Element collectors are Haitians.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+730;NEUTRAL;Some Cashiers are not Haitians, and some Element collectors are Haitians.;Some Element collectors are not Cashiers.;neutral;Contradiction.
+731;NEUTRAL;Some Clergys are not Haitians, and some Element collectors are Haitians.;Some Element collectors are not Clergys.;neutral;Contradiction.
+732;NEUTRAL;Some Carpenters are not Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Carpenters.;neutral;Neutral.
+733;NEUTRAL;Some Cashiers are not Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Cashiers.;neutral;Entailment.
+734;NEUTRAL;Some Clergys are not Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Clergys.;neutral;Neutral.
+735;NEUTRAL;Some Carpenters are not Georgians, and some Films collectors are Georgians.;Some Films collectors are not Carpenters.;neutral;Neutral.
+736;NEUTRAL;Some Cashiers are not Georgians, and some Films collectors are Georgians.;Some Films collectors are not Cashiers.;neutral;Neutral.
+737;NEUTRAL;Some Clergys are not Georgians, and some Films collectors are Georgians.;Some Films collectors are not Clergys.;neutral;Neutral.
+738;NEUTRAL;Some Carpenters are not Germans, and some Films collectors are Germans.;Some Films collectors are not Carpenters.;neutral;Neutral.
+739;NEUTRAL;Some Cashiers are not Germans, and some Films collectors are Germans.;Some Films collectors are not Cashiers.;neutral;Neutral.
+740;NEUTRAL;Some Clergys are not Germans, and some Films collectors are Germans.;Some Films collectors are not Clergys.;neutral;Contradiction.
+741;NEUTRAL;Some Carpenters are not Haitians, and some Films collectors are Haitians.;Some Films collectors are not Carpenters.;neutral;Contradiction.
+742;NEUTRAL;Some Cashiers are not Haitians, and some Films collectors are Haitians.;Some Films collectors are not Cashiers.;neutral;Entailment.
+743;NEUTRAL;Some Clergys are not Haitians, and some Films collectors are Haitians.;Some Films collectors are not Clergys.;neutral;Neutral.
+744;NEUTRAL;Some Carpenters are not Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Carpenters.;neutral;Contradiction.
+745;NEUTRAL;Some Cashiers are not Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+746;NEUTRAL;Some Clergys are not Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Clergys.;neutral;Neutral.
+747;NEUTRAL;Some Carpenters are not Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Carpenters.;neutral;Contradiction.
+748;NEUTRAL;Some Cashiers are not Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Cashiers.;neutral;Contradiction.
+749;NEUTRAL;Some Clergys are not Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Clergys.;neutral;Contradiction.
+750;NEUTRAL;Some Carpenters are not Germans, and some Knife collectors are Germans.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+751;NEUTRAL;Some Cashiers are not Germans, and some Knife collectors are Germans.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+752;NEUTRAL;Some Clergys are not Germans, and some Knife collectors are Germans.;Some Knife collectors are not Clergys.;neutral;Contradiction.
+753;NEUTRAL;Some Carpenters are not Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Carpenters.;neutral;Neutral.
+754;NEUTRAL;Some Cashiers are not Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Cashiers.;neutral;Neutral.
+755;NEUTRAL;Some Clergys are not Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Clergys.;neutral;Neutral.
+756;BAROCO;All Carpenters are Gabonese, and some Element collectors are no Gabonese.;Some Element collectors are not Carpenters.;entailment;Entailment.
+757;BAROCO;All Cashiers are Gabonese, and some Element collectors are no Gabonese.;Some Element collectors are not Cashiers.;entailment;Contradiction.
+758;BAROCO;All Clergys are Gabonese, and some Element collectors are no Gabonese.;Some Element collectors are not Clergys.;entailment;Entailment.
+759;BAROCO;All Carpenters are Georgians, and some Element collectors are no Georgians.;Some Element collectors are not Carpenters.;entailment;Entailment.
+760;BAROCO;All Cashiers are Georgians, and some Element collectors are no Georgians.;Some Element collectors are not Cashiers.;entailment;Entailment.
+761;BAROCO;All Clergys are Georgians, and some Element collectors are no Georgians.;Some Element collectors are not Clergys.;entailment;Entailment.
+762;BAROCO;All Carpenters are Germans, and some Element collectors are no Germans.;Some Element collectors are not Carpenters.;entailment;Entailment.
+763;BAROCO;All Cashiers are Germans, and some Element collectors are no Germans.;Some Element collectors are not Cashiers.;entailment;Entailment.
+764;BAROCO;All Clergys are Germans, and some Element collectors are no Germans.;Some Element collectors are not Clergys.;entailment;Entailment.
+765;BAROCO;All Carpenters are Haitians, and some Element collectors are no Haitians.;Some Element collectors are not Carpenters.;entailment;contradiction
+766;BAROCO;All Cashiers are Haitians, and some Element collectors are no Haitians.;Some Element collectors are not Cashiers.;entailment;Entailment.
+767;BAROCO;All Clergys are Haitians, and some Element collectors are no Haitians.;Some Element collectors are not Clergys.;entailment;Contradiction.
+768;BAROCO;All Carpenters are Gabonese, and some Films collectors are no Gabonese.;Some Films collectors are not Carpenters.;entailment;Neutral.
+769;BAROCO;All Cashiers are Gabonese, and some Films collectors are no Gabonese.;Some Films collectors are not Cashiers.;entailment;Entailment.
+770;BAROCO;All Clergys are Gabonese, and some Films collectors are no Gabonese.;Some Films collectors are not Clergys.;entailment;Entailment.
+771;BAROCO;All Carpenters are Georgians, and some Films collectors are no Georgians.;Some Films collectors are not Carpenters.;entailment;Contradiction.
+772;BAROCO;All Cashiers are Georgians, and some Films collectors are no Georgians.;Some Films collectors are not Cashiers.;entailment;Entailment.
+773;BAROCO;All Clergys are Georgians, and some Films collectors are no Georgians.;Some Films collectors are not Clergys.;entailment;Entailment.
+774;BAROCO;All Carpenters are Germans, and some Films collectors are no Germans.;Some Films collectors are not Carpenters.;entailment;Contradiction.
+775;BAROCO;All Cashiers are Germans, and some Films collectors are no Germans.;Some Films collectors are not Cashiers.;entailment;Contradiction.
+776;BAROCO;All Clergys are Germans, and some Films collectors are no Germans.;Some Films collectors are not Clergys.;entailment;Entailment.
+777;BAROCO;All Carpenters are Haitians, and some Films collectors are no Haitians.;Some Films collectors are not Carpenters.;entailment;Entailment.
+778;BAROCO;All Cashiers are Haitians, and some Films collectors are no Haitians.;Some Films collectors are not Cashiers.;entailment;Entailment.
+779;BAROCO;All Clergys are Haitians, and some Films collectors are no Haitians.;Some Films collectors are not Clergys.;entailment;Contradiction.
+780;BAROCO;All Carpenters are Gabonese, and some Knife collectors are no Gabonese.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+781;BAROCO;All Cashiers are Gabonese, and some Knife collectors are no Gabonese.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+782;BAROCO;All Clergys are Gabonese, and some Knife collectors are no Gabonese.;Some Knife collectors are not Clergys.;entailment;Entailment.
+783;BAROCO;All Carpenters are Georgians, and some Knife collectors are no Georgians.;Some Knife collectors are not Carpenters.;entailment;neutral.
+784;BAROCO;All Cashiers are Georgians, and some Knife collectors are no Georgians.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+785;BAROCO;All Clergys are Georgians, and some Knife collectors are no Georgians.;Some Knife collectors are not Clergys.;entailment;Contradiction.
+786;BAROCO;All Carpenters are Germans, and some Knife collectors are no Germans.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+787;BAROCO;All Cashiers are Germans, and some Knife collectors are no Germans.;Some Knife collectors are not Cashiers.;entailment;Contradiction.
+788;BAROCO;All Clergys are Germans, and some Knife collectors are no Germans.;Some Knife collectors are not Clergys.;entailment;Entailment.
+789;BAROCO;All Carpenters are Haitians, and some Knife collectors are no Haitians.;Some Knife collectors are not Carpenters.;entailment;entailment.
+790;BAROCO;All Cashiers are Haitians, and some Knife collectors are no Haitians.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+791;BAROCO;All Clergys are Haitians, and some Knife collectors are no Haitians.;Some Knife collectors are not Clergys.;entailment;Contradiction.
+792;CONTRADICTION;All Carpenters are Gabonese, and some Element collectors are no Gabonese.;Element collectors are Carpenters.;contradiction;Neutral.
+793;CONTRADICTION;All Cashiers are Gabonese, and some Element collectors are no Gabonese.;Element collectors are Cashiers.;contradiction;Neutral.
+794;CONTRADICTION;All Clergys are Gabonese, and some Element collectors are no Gabonese.;Element collectors are Clergys.;contradiction;Neutral.
+795;CONTRADICTION;All Carpenters are Georgians, and some Element collectors are no Georgians.;Element collectors are Carpenters.;contradiction;neutral.
+796;CONTRADICTION;All Cashiers are Georgians, and some Element collectors are no Georgians.;Element collectors are Cashiers.;contradiction;Neutral.
+797;CONTRADICTION;All Clergys are Georgians, and some Element collectors are no Georgians.;Element collectors are Clergys.;contradiction;Neutral.
+798;CONTRADICTION;All Carpenters are Germans, and some Element collectors are no Germans.;Element collectors are Carpenters.;contradiction;Neutral.
+799;CONTRADICTION;All Cashiers are Germans, and some Element collectors are no Germans.;Element collectors are Cashiers.;contradiction;Neutral.
+800;CONTRADICTION;All Clergys are Germans, and some Element collectors are no Germans.;Element collectors are Clergys.;contradiction;Contradiction.
+801;CONTRADICTION;All Carpenters are Haitians, and some Element collectors are no Haitians.;Element collectors are Carpenters.;contradiction;neutral.
+802;CONTRADICTION;All Cashiers are Haitians, and some Element collectors are no Haitians.;Element collectors are Cashiers.;contradiction;Neutral.
+803;CONTRADICTION;All Clergys are Haitians, and some Element collectors are no Haitians.;Element collectors are Clergys.;contradiction;Neutral.
+804;CONTRADICTION;All Carpenters are Gabonese, and some Films collectors are no Gabonese.;Films collectors are Carpenters.;contradiction;Contradiction.
+805;CONTRADICTION;All Cashiers are Gabonese, and some Films collectors are no Gabonese.;Films collectors are Cashiers.;contradiction;Neutral.
+806;CONTRADICTION;All Clergys are Gabonese, and some Films collectors are no Gabonese.;Films collectors are Clergys.;contradiction;Neutral.
+807;CONTRADICTION;All Carpenters are Georgians, and some Films collectors are no Georgians.;Films collectors are Carpenters.;contradiction;Contradiction.
+808;CONTRADICTION;All Cashiers are Georgians, and some Films collectors are no Georgians.;Films collectors are Cashiers.;contradiction;Neutral.
+809;CONTRADICTION;All Clergys are Georgians, and some Films collectors are no Georgians.;Films collectors are Clergys.;contradiction;Neutral.
+810;CONTRADICTION;All Carpenters are Germans, and some Films collectors are no Germans.;Films collectors are Carpenters.;contradiction;Contradiction.
+811;CONTRADICTION;All Cashiers are Germans, and some Films collectors are no Germans.;Films collectors are Cashiers.;contradiction;Neutral.
+812;CONTRADICTION;All Clergys are Germans, and some Films collectors are no Germans.;Films collectors are Clergys.;contradiction;Neutral.
+813;CONTRADICTION;All Carpenters are Haitians, and some Films collectors are no Haitians.;Films collectors are Carpenters.;contradiction;Contradiction.
+814;CONTRADICTION;All Cashiers are Haitians, and some Films collectors are no Haitians.;Films collectors are Cashiers.;contradiction;Neutral.
+815;CONTRADICTION;All Clergys are Haitians, and some Films collectors are no Haitians.;Films collectors are Clergys.;contradiction;Neutral.
+816;CONTRADICTION;All Carpenters are Gabonese, and some Knife collectors are no Gabonese.;Knife collectors are Carpenters.;contradiction;Neutral.
+817;CONTRADICTION;All Cashiers are Gabonese, and some Knife collectors are no Gabonese.;Knife collectors are Cashiers.;contradiction;Neutral.
+818;CONTRADICTION;All Clergys are Gabonese, and some Knife collectors are no Gabonese.;Knife collectors are Clergys.;contradiction;Neutral.
+819;CONTRADICTION;All Carpenters are Georgians, and some Knife collectors are no Georgians.;Knife collectors are Carpenters.;contradiction;Contradiction.
+820;CONTRADICTION;All Cashiers are Georgians, and some Knife collectors are no Georgians.;Knife collectors are Cashiers.;contradiction;Neutral.
+821;CONTRADICTION;All Clergys are Georgians, and some Knife collectors are no Georgians.;Knife collectors are Clergys.;contradiction;Neutral.
+822;CONTRADICTION;All Carpenters are Germans, and some Knife collectors are no Germans.;Knife collectors are Carpenters.;contradiction;Contradiction.
+823;CONTRADICTION;All Cashiers are Germans, and some Knife collectors are no Germans.;Knife collectors are Cashiers.;contradiction;Neutral.
+824;CONTRADICTION;All Clergys are Germans, and some Knife collectors are no Germans.;Knife collectors are Clergys.;contradiction;Neutral.
+825;CONTRADICTION;All Carpenters are Haitians, and some Knife collectors are no Haitians.;Knife collectors are Carpenters.;contradiction;Contradiction.
+826;CONTRADICTION;All Cashiers are Haitians, and some Knife collectors are no Haitians.;Knife collectors are Cashiers.;contradiction;Neutral.
+827;CONTRADICTION;All Clergys are Haitians, and some Knife collectors are no Haitians.;Knife collectors are Clergys.;contradiction;Neutral.
+828;NEUTRAL;All Carpenters are Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Carpenters.;neutral;Entailment.
+829;NEUTRAL;All Cashiers are Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Cashiers.;neutral;Contradiction.
+830;NEUTRAL;All Clergys are Gabonese, and some Element collectors are Gabonese.;Some Element collectors are not Clergys.;neutral;Contradiction.
+831;NEUTRAL;All Carpenters are Georgians, and some Element collectors are Georgians.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+832;NEUTRAL;All Cashiers are Georgians, and some Element collectors are Georgians.;Some Element collectors are not Cashiers.;neutral;Neutral.
+833;NEUTRAL;All Clergys are Georgians, and some Element collectors are Georgians.;Some Element collectors are not Clergys.;neutral;Contradiction.
+834;NEUTRAL;All Carpenters are Germans, and some Element collectors are Germans.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+835;NEUTRAL;All Cashiers are Germans, and some Element collectors are Germans.;Some Element collectors are not Cashiers.;neutral;Neutral.
+836;NEUTRAL;All Clergys are Germans, and some Element collectors are Germans.;Some Element collectors are not Clergys.;neutral;Entailment.
+837;NEUTRAL;All Carpenters are Haitians, and some Element collectors are Haitians.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+838;NEUTRAL;All Cashiers are Haitians, and some Element collectors are Haitians.;Some Element collectors are not Cashiers.;neutral;Contradiction.
+839;NEUTRAL;All Clergys are Haitians, and some Element collectors are Haitians.;Some Element collectors are not Clergys.;neutral;Contradiction.
+840;NEUTRAL;All Carpenters are Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Carpenters.;neutral;Contradiction.
+841;NEUTRAL;All Cashiers are Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Cashiers.;neutral;Neutral.
+842;NEUTRAL;All Clergys are Gabonese, and some Films collectors are Gabonese.;Some Films collectors are not Clergys.;neutral;Contradiction.
+843;NEUTRAL;All Carpenters are Georgians, and some Films collectors are Georgians.;Some Films collectors are not Carpenters.;neutral;Contradiction.
+844;NEUTRAL;All Cashiers are Georgians, and some Films collectors are Georgians.;Some Films collectors are not Cashiers.;neutral;Neutral.
+845;NEUTRAL;All Clergys are Georgians, and some Films collectors are Georgians.;Some Films collectors are not Clergys.;neutral;Neutral.
+846;NEUTRAL;All Carpenters are Germans, and some Films collectors are Germans.;Some Films collectors are not Carpenters.;neutral;Contradiction.
+847;NEUTRAL;All Cashiers are Germans, and some Films collectors are Germans.;Some Films collectors are not Cashiers.;neutral;Entailment.
+848;NEUTRAL;All Clergys are Germans, and some Films collectors are Germans.;Some Films collectors are not Clergys.;neutral;Contradiction.
+849;NEUTRAL;All Carpenters are Haitians, and some Films collectors are Haitians.;Some Films collectors are not Carpenters.;neutral;Contradiction.
+850;NEUTRAL;All Cashiers are Haitians, and some Films collectors are Haitians.;Some Films collectors are not Cashiers.;neutral;Contradiction.
+851;NEUTRAL;All Clergys are Haitians, and some Films collectors are Haitians.;Some Films collectors are not Clergys.;neutral;Entailment.
+852;NEUTRAL;All Carpenters are Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+853;NEUTRAL;All Cashiers are Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Cashiers.;neutral;Contradiction.
+854;NEUTRAL;All Clergys are Gabonese, and some Knife collectors are Gabonese.;Some Knife collectors are not Clergys.;neutral;Contradiction.
+855;NEUTRAL;All Carpenters are Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Carpenters.;neutral;Contradiction.
+856;NEUTRAL;All Cashiers are Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Cashiers.;neutral;Neutral.
+857;NEUTRAL;All Clergys are Georgians, and some Knife collectors are Georgians.;Some Knife collectors are not Clergys.;neutral;Entailment.
+858;NEUTRAL;All Carpenters are Germans, and some Knife collectors are Germans.;Some Knife collectors are not Carpenters.;neutral;Contradiction.
+859;NEUTRAL;All Cashiers are Germans, and some Knife collectors are Germans.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+860;NEUTRAL;All Clergys are Germans, and some Knife collectors are Germans.;Some Knife collectors are not Clergys.;neutral;Entailment.
+861;NEUTRAL;All Carpenters are Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Carpenters.;neutral;Contradiction.
+862;NEUTRAL;All Cashiers are Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Cashiers.;neutral;Neutral.
+863;NEUTRAL;All Clergys are Haitians, and some Knife collectors are Haitians.;Some Knife collectors are not Clergys.;neutral;contradiction.
+864;DISAMIS;Some Gabonese are Carpenters, and all Gabonese are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+865;DISAMIS;Some Gabonese are Cashiers, and all Gabonese are Element collectors.;Some Element collectors are Cashiers.;entailment;Entailment.
+866;DISAMIS;Some Gabonese are Clergys, and all Gabonese are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+867;DISAMIS;Some Georgians are Carpenters, and all Georgians are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+868;DISAMIS;Some Georgians are Cashiers, and all Georgians are Element collectors.;Some Element collectors are Cashiers.;entailment;Entailment.
+869;DISAMIS;Some Georgians are Clergys, and all Georgians are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+870;DISAMIS;Some Germans are Carpenters, and all Germans are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+871;DISAMIS;Some Germans are Cashiers, and all Germans are Element collectors.;Some Element collectors are Cashiers.;entailment;Entailment.
+872;DISAMIS;Some Germans are Clergys, and all Germans are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+873;DISAMIS;Some Haitians are Carpenters, and all Haitians are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+874;DISAMIS;Some Haitians are Cashiers, and all Haitians are Element collectors.;Some Element collectors are Cashiers.;entailment;Entailment.
+875;DISAMIS;Some Haitians are Clergys, and all Haitians are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+876;DISAMIS;Some Gabonese are Carpenters, and all Gabonese are Films collectors.;Some Films collectors are Carpenters.;entailment;Neutral.
+877;DISAMIS;Some Gabonese are Cashiers, and all Gabonese are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+878;DISAMIS;Some Gabonese are Clergys, and all Gabonese are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+879;DISAMIS;Some Georgians are Carpenters, and all Georgians are Films collectors.;Some Films collectors are Carpenters.;entailment;Entailment.
+880;DISAMIS;Some Georgians are Cashiers, and all Georgians are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+881;DISAMIS;Some Georgians are Clergys, and all Georgians are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+882;DISAMIS;Some Germans are Carpenters, and all Germans are Films collectors.;Some Films collectors are Carpenters.;entailment;Neutral.
+883;DISAMIS;Some Germans are Cashiers, and all Germans are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+884;DISAMIS;Some Germans are Clergys, and all Germans are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+885;DISAMIS;Some Haitians are Carpenters, and all Haitians are Films collectors.;Some Films collectors are Carpenters.;entailment;Entailment.
+886;DISAMIS;Some Haitians are Cashiers, and all Haitians are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+887;DISAMIS;Some Haitians are Clergys, and all Haitians are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+888;DISAMIS;Some Gabonese are Carpenters, and all Gabonese are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Entailment.
+889;DISAMIS;Some Gabonese are Cashiers, and all Gabonese are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+890;DISAMIS;Some Gabonese are Clergys, and all Gabonese are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+891;DISAMIS;Some Georgians are Carpenters, and all Georgians are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Entailment.
+892;DISAMIS;Some Georgians are Cashiers, and all Georgians are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+893;DISAMIS;Some Georgians are Clergys, and all Georgians are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+894;DISAMIS;Some Germans are Carpenters, and all Germans are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Entailment.
+895;DISAMIS;Some Germans are Cashiers, and all Germans are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+896;DISAMIS;Some Germans are Clergys, and all Germans are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+897;DISAMIS;Some Haitians are Carpenters, and all Haitians are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Entailment.
+898;DISAMIS;Some Haitians are Cashiers, and all Haitians are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+899;DISAMIS;Some Haitians are Clergys, and all Haitians are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+900;CONTRADICTION;Some Gabonese are Carpenters, and all Gabonese are Element collectors.;No Element collectors are Carpenters.;contradiction;contradiction.
+901;CONTRADICTION;Some Gabonese are Cashiers, and all Gabonese are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+902;CONTRADICTION;Some Gabonese are Clergys, and all Gabonese are Element collectors.;No Element collectors are Clergys.;contradiction;contradiction.
+903;CONTRADICTION;Some Georgians are Carpenters, and all Georgians are Element collectors.;No Element collectors are Carpenters.;contradiction;Contradiction.
+904;CONTRADICTION;Some Georgians are Cashiers, and all Georgians are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+905;CONTRADICTION;Some Georgians are Clergys, and all Georgians are Element collectors.;No Element collectors are Clergys.;contradiction;Contradiction.
+906;CONTRADICTION;Some Germans are Carpenters, and all Germans are Element collectors.;No Element collectors are Carpenters.;contradiction;Contradiction.
+907;CONTRADICTION;Some Germans are Cashiers, and all Germans are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+908;CONTRADICTION;Some Germans are Clergys, and all Germans are Element collectors.;No Element collectors are Clergys.;contradiction;Contradiction.
+909;CONTRADICTION;Some Haitians are Carpenters, and all Haitians are Element collectors.;No Element collectors are Carpenters.;contradiction;contradiction
+910;CONTRADICTION;Some Haitians are Cashiers, and all Haitians are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+911;CONTRADICTION;Some Haitians are Clergys, and all Haitians are Element collectors.;No Element collectors are Clergys.;contradiction;contradiction
+912;CONTRADICTION;Some Gabonese are Carpenters, and all Gabonese are Films collectors.;No Films collectors are Carpenters.;contradiction;contradiction.
+913;CONTRADICTION;Some Gabonese are Cashiers, and all Gabonese are Films collectors.;No Films collectors are Cashiers.;contradiction;contradiction.
+914;CONTRADICTION;Some Gabonese are Clergys, and all Gabonese are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+915;CONTRADICTION;Some Georgians are Carpenters, and all Georgians are Films collectors.;No Films collectors are Carpenters.;contradiction;Contradiction.
+916;CONTRADICTION;Some Georgians are Cashiers, and all Georgians are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+917;CONTRADICTION;Some Georgians are Clergys, and all Georgians are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+918;CONTRADICTION;Some Germans are Carpenters, and all Germans are Films collectors.;No Films collectors are Carpenters.;contradiction;Contradiction.
+919;CONTRADICTION;Some Germans are Cashiers, and all Germans are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+920;CONTRADICTION;Some Germans are Clergys, and all Germans are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+921;CONTRADICTION;Some Haitians are Carpenters, and all Haitians are Films collectors.;No Films collectors are Carpenters.;contradiction;contradiction.
+922;CONTRADICTION;Some Haitians are Cashiers, and all Haitians are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+923;CONTRADICTION;Some Haitians are Clergys, and all Haitians are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+924;CONTRADICTION;Some Gabonese are Carpenters, and all Gabonese are Knife collectors.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+925;CONTRADICTION;Some Gabonese are Cashiers, and all Gabonese are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+926;CONTRADICTION;Some Gabonese are Clergys, and all Gabonese are Knife collectors.;No Knife collectors are Clergys.;contradiction;Contradiction.
+927;CONTRADICTION;Some Georgians are Carpenters, and all Georgians are Knife collectors.;No Knife collectors are Carpenters.;contradiction;contradiction.
+928;CONTRADICTION;Some Georgians are Cashiers, and all Georgians are Knife collectors.;No Knife collectors are Cashiers.;contradiction;contradiction
+929;CONTRADICTION;Some Georgians are Clergys, and all Georgians are Knife collectors.;No Knife collectors are Clergys.;contradiction;Contradiction.
+930;CONTRADICTION;Some Germans are Carpenters, and all Germans are Knife collectors.;No Knife collectors are Carpenters.;contradiction;contradiction.
+931;CONTRADICTION;Some Germans are Cashiers, and all Germans are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+932;CONTRADICTION;Some Germans are Clergys, and all Germans are Knife collectors.;No Knife collectors are Clergys.;contradiction;Contradiction.
+933;CONTRADICTION;Some Haitians are Carpenters, and all Haitians are Knife collectors.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+934;CONTRADICTION;Some Haitians are Cashiers, and all Haitians are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+935;CONTRADICTION;Some Haitians are Clergys, and all Haitians are Knife collectors.;No Knife collectors are Clergys.;contradiction;contradiction.
+936;NEUTRAL;Some Gabonese are Carpenters, and some Gabonese are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+937;NEUTRAL;Some Gabonese are Cashiers, and some Gabonese are Element collectors.;Some Element collectors are Cashiers.;neutral;Entailment.
+938;NEUTRAL;Some Gabonese are Clergys, and some Gabonese are Element collectors.;Some Element collectors are Clergys.;neutral;Entailment.
+939;NEUTRAL;Some Georgians are Carpenters, and some Georgians are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+940;NEUTRAL;Some Georgians are Cashiers, and some Georgians are Element collectors.;Some Element collectors are Cashiers.;neutral;Neutral.
+941;NEUTRAL;Some Georgians are Clergys, and some Georgians are Element collectors.;Some Element collectors are Clergys.;neutral;Neutral.
+942;NEUTRAL;Some Germans are Carpenters, and some Germans are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+943;NEUTRAL;Some Germans are Cashiers, and some Germans are Element collectors.;Some Element collectors are Cashiers.;neutral;Entailment.
+944;NEUTRAL;Some Germans are Clergys, and some Germans are Element collectors.;Some Element collectors are Clergys.;neutral;Entailment.
+945;NEUTRAL;Some Haitians are Carpenters, and some Haitians are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+946;NEUTRAL;Some Haitians are Cashiers, and some Haitians are Element collectors.;Some Element collectors are Cashiers.;neutral;Neutral.
+947;NEUTRAL;Some Haitians are Clergys, and some Haitians are Element collectors.;Some Element collectors are Clergys.;neutral;Entailment.
+948;NEUTRAL;Some Gabonese are Carpenters, and some Gabonese are Films collectors.;Some Films collectors are Carpenters.;neutral;Neutral.
+949;NEUTRAL;Some Gabonese are Cashiers, and some Gabonese are Films collectors.;Some Films collectors are Cashiers.;neutral;Entailment.
+950;NEUTRAL;Some Gabonese are Clergys, and some Gabonese are Films collectors.;Some Films collectors are Clergys.;neutral;Neutral.
+951;NEUTRAL;Some Georgians are Carpenters, and some Georgians are Films collectors.;Some Films collectors are Carpenters.;neutral;Neutral.
+952;NEUTRAL;Some Georgians are Cashiers, and some Georgians are Films collectors.;Some Films collectors are Cashiers.;neutral;Entailment.
+953;NEUTRAL;Some Georgians are Clergys, and some Georgians are Films collectors.;Some Films collectors are Clergys.;neutral;Neutral.
+954;NEUTRAL;Some Germans are Carpenters, and some Germans are Films collectors.;Some Films collectors are Carpenters.;neutral;Neutral.
+955;NEUTRAL;Some Germans are Cashiers, and some Germans are Films collectors.;Some Films collectors are Cashiers.;neutral;Entailment.
+956;NEUTRAL;Some Germans are Clergys, and some Germans are Films collectors.;Some Films collectors are Clergys.;neutral;Neutral.
+957;NEUTRAL;Some Haitians are Carpenters, and some Haitians are Films collectors.;Some Films collectors are Carpenters.;neutral;Neutral.
+958;NEUTRAL;Some Haitians are Cashiers, and some Haitians are Films collectors.;Some Films collectors are Cashiers.;neutral;Neutral.
+959;NEUTRAL;Some Haitians are Clergys, and some Haitians are Films collectors.;Some Films collectors are Clergys.;neutral;Neutral.
+960;NEUTRAL;Some Gabonese are Carpenters, and some Gabonese are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+961;NEUTRAL;Some Gabonese are Cashiers, and some Gabonese are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Neutral.
+962;NEUTRAL;Some Gabonese are Clergys, and some Gabonese are Knife collectors.;Some Knife collectors are Clergys.;neutral;Entailment.
+963;NEUTRAL;Some Georgians are Carpenters, and some Georgians are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+964;NEUTRAL;Some Georgians are Cashiers, and some Georgians are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Entailment.
+965;NEUTRAL;Some Georgians are Clergys, and some Georgians are Knife collectors.;Some Knife collectors are Clergys.;neutral;Entailment.
+966;NEUTRAL;Some Germans are Carpenters, and some Germans are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+967;NEUTRAL;Some Germans are Cashiers, and some Germans are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Entailment.
+968;NEUTRAL;Some Germans are Clergys, and some Germans are Knife collectors.;Some Knife collectors are Clergys.;neutral;Entailment.
+969;NEUTRAL;Some Haitians are Carpenters, and some Haitians are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+970;NEUTRAL;Some Haitians are Cashiers, and some Haitians are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Neutral.
+971;NEUTRAL;Some Haitians are Clergys, and some Haitians are Knife collectors.;Some Knife collectors are Clergys.;neutral;Entailment.
+972;DATISI;All Gabonese are Carpenters, and some Gabonese are Element collectors.;Some Element collectors are Carpenters.;entailment;Neutral.
+973;DATISI;All Gabonese are Cashiers, and some Gabonese are Element collectors.;Some Element collectors are Cashiers.;entailment;Neutral.
+974;DATISI;All Gabonese are Clergys, and some Gabonese are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+975;DATISI;All Georgians are Carpenters, and some Georgians are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+976;DATISI;All Georgians are Cashiers, and some Georgians are Element collectors.;Some Element collectors are Cashiers.;entailment;Entailment.
+977;DATISI;All Georgians are Clergys, and some Georgians are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+978;DATISI;All Germans are Carpenters, and some Germans are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+979;DATISI;All Germans are Cashiers, and some Germans are Element collectors.;Some Element collectors are Cashiers.;entailment;Neutral.
+980;DATISI;All Germans are Clergys, and some Germans are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+981;DATISI;All Haitians are Carpenters, and some Haitians are Element collectors.;Some Element collectors are Carpenters.;entailment;Entailment.
+982;DATISI;All Haitians are Cashiers, and some Haitians are Element collectors.;Some Element collectors are Cashiers.;entailment;Neutral.
+983;DATISI;All Haitians are Clergys, and some Haitians are Element collectors.;Some Element collectors are Clergys.;entailment;Entailment.
+984;DATISI;All Gabonese are Carpenters, and some Gabonese are Films collectors.;Some Films collectors are Carpenters.;entailment;Entailment.
+985;DATISI;All Gabonese are Cashiers, and some Gabonese are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+986;DATISI;All Gabonese are Clergys, and some Gabonese are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+987;DATISI;All Georgians are Carpenters, and some Georgians are Films collectors.;Some Films collectors are Carpenters.;entailment;Entailment.
+988;DATISI;All Georgians are Cashiers, and some Georgians are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+989;DATISI;All Georgians are Clergys, and some Georgians are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+990;DATISI;All Germans are Carpenters, and some Germans are Films collectors.;Some Films collectors are Carpenters.;entailment;Entailment.
+991;DATISI;All Germans are Cashiers, and some Germans are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+992;DATISI;All Germans are Clergys, and some Germans are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+993;DATISI;All Haitians are Carpenters, and some Haitians are Films collectors.;Some Films collectors are Carpenters.;entailment;Entailment.
+994;DATISI;All Haitians are Cashiers, and some Haitians are Films collectors.;Some Films collectors are Cashiers.;entailment;Entailment.
+995;DATISI;All Haitians are Clergys, and some Haitians are Films collectors.;Some Films collectors are Clergys.;entailment;Entailment.
+996;DATISI;All Gabonese are Carpenters, and some Gabonese are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Entailment.
+997;DATISI;All Gabonese are Cashiers, and some Gabonese are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+998;DATISI;All Gabonese are Clergys, and some Gabonese are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+999;DATISI;All Georgians are Carpenters, and some Georgians are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Entailment.
+1000;DATISI;All Georgians are Cashiers, and some Georgians are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+1001;DATISI;All Georgians are Clergys, and some Georgians are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+1002;DATISI;All Germans are Carpenters, and some Germans are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Neutral.
+1003;DATISI;All Germans are Cashiers, and some Germans are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+1004;DATISI;All Germans are Clergys, and some Germans are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+1005;DATISI;All Haitians are Carpenters, and some Haitians are Knife collectors.;Some Knife collectors are Carpenters.;entailment;Neutral.
+1006;DATISI;All Haitians are Cashiers, and some Haitians are Knife collectors.;Some Knife collectors are Cashiers.;entailment;Entailment.
+1007;DATISI;All Haitians are Clergys, and some Haitians are Knife collectors.;Some Knife collectors are Clergys.;entailment;Entailment.
+1008;CONTRADICTION;All Gabonese are Carpenters, and some Gabonese are Element collectors.;No Element collectors are Carpenters.;contradiction;Contradiction.
+1009;CONTRADICTION;All Gabonese are Cashiers, and some Gabonese are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+1010;CONTRADICTION;All Gabonese are Clergys, and some Gabonese are Element collectors.;No Element collectors are Clergys.;contradiction;contradiction.
+1011;CONTRADICTION;All Georgians are Carpenters, and some Georgians are Element collectors.;No Element collectors are Carpenters.;contradiction;Contradiction.
+1012;CONTRADICTION;All Georgians are Cashiers, and some Georgians are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+1013;CONTRADICTION;All Georgians are Clergys, and some Georgians are Element collectors.;No Element collectors are Clergys.;contradiction;Contradiction.
+1014;CONTRADICTION;All Germans are Carpenters, and some Germans are Element collectors.;No Element collectors are Carpenters.;contradiction;Contradiction.
+1015;CONTRADICTION;All Germans are Cashiers, and some Germans are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+1016;CONTRADICTION;All Germans are Clergys, and some Germans are Element collectors.;No Element collectors are Clergys.;contradiction;Contradiction.
+1017;CONTRADICTION;All Haitians are Carpenters, and some Haitians are Element collectors.;No Element collectors are Carpenters.;contradiction;Contradiction.
+1018;CONTRADICTION;All Haitians are Cashiers, and some Haitians are Element collectors.;No Element collectors are Cashiers.;contradiction;Contradiction.
+1019;CONTRADICTION;All Haitians are Clergys, and some Haitians are Element collectors.;No Element collectors are Clergys.;contradiction;Contradiction.
+1020;CONTRADICTION;All Gabonese are Carpenters, and some Gabonese are Films collectors.;No Films collectors are Carpenters.;contradiction;Contradiction.
+1021;CONTRADICTION;All Gabonese are Cashiers, and some Gabonese are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+1022;CONTRADICTION;All Gabonese are Clergys, and some Gabonese are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+1023;CONTRADICTION;All Georgians are Carpenters, and some Georgians are Films collectors.;No Films collectors are Carpenters.;contradiction;Contradiction.
+1024;CONTRADICTION;All Georgians are Cashiers, and some Georgians are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+1025;CONTRADICTION;All Georgians are Clergys, and some Georgians are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+1026;CONTRADICTION;All Germans are Carpenters, and some Germans are Films collectors.;No Films collectors are Carpenters.;contradiction;Contradiction.
+1027;CONTRADICTION;All Germans are Cashiers, and some Germans are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+1028;CONTRADICTION;All Germans are Clergys, and some Germans are Films collectors.;No Films collectors are Clergys.;contradiction;Entailment.
+1029;CONTRADICTION;All Haitians are Carpenters, and some Haitians are Films collectors.;No Films collectors are Carpenters.;contradiction;contradiction.
+1030;CONTRADICTION;All Haitians are Cashiers, and some Haitians are Films collectors.;No Films collectors are Cashiers.;contradiction;Contradiction.
+1031;CONTRADICTION;All Haitians are Clergys, and some Haitians are Films collectors.;No Films collectors are Clergys.;contradiction;Contradiction.
+1032;CONTRADICTION;All Gabonese are Carpenters, and some Gabonese are Knife collectors.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+1033;CONTRADICTION;All Gabonese are Cashiers, and some Gabonese are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+1034;CONTRADICTION;All Gabonese are Clergys, and some Gabonese are Knife collectors.;No Knife collectors are Clergys.;contradiction;contradiction.
+1035;CONTRADICTION;All Georgians are Carpenters, and some Georgians are Knife collectors.;No Knife collectors are Carpenters.;contradiction;contradiction.
+1036;CONTRADICTION;All Georgians are Cashiers, and some Georgians are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+1037;CONTRADICTION;All Georgians are Clergys, and some Georgians are Knife collectors.;No Knife collectors are Clergys.;contradiction;Entailment.
+1038;CONTRADICTION;All Germans are Carpenters, and some Germans are Knife collectors.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+1039;CONTRADICTION;All Germans are Cashiers, and some Germans are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+1040;CONTRADICTION;All Germans are Clergys, and some Germans are Knife collectors.;No Knife collectors are Clergys.;contradiction;Contradiction.
+1041;CONTRADICTION;All Haitians are Carpenters, and some Haitians are Knife collectors.;No Knife collectors are Carpenters.;contradiction;Contradiction.
+1042;CONTRADICTION;All Haitians are Cashiers, and some Haitians are Knife collectors.;No Knife collectors are Cashiers.;contradiction;Contradiction.
+1043;CONTRADICTION;All Haitians are Clergys, and some Haitians are Knife collectors.;No Knife collectors are Clergys.;contradiction;Contradiction.
+1044;NEUTRAL;All Gabonese are Carpenters, and some Gabonese are Element collectors.;All Element collectors are Carpenters.;neutral;Neutral.
+1045;NEUTRAL;All Gabonese are Cashiers, and some Gabonese are Element collectors.;All Element collectors are Cashiers.;neutral;Entailment.
+1046;NEUTRAL;All Gabonese are Clergys, and some Gabonese are Element collectors.;All Element collectors are Clergys.;neutral;Entailment.
+1047;NEUTRAL;All Georgians are Carpenters, and some Georgians are Element collectors.;All Element collectors are Carpenters.;neutral;Contradiction.
+1048;NEUTRAL;All Georgians are Cashiers, and some Georgians are Element collectors.;All Element collectors are Cashiers.;neutral;Entailment.
+1049;NEUTRAL;All Georgians are Clergys, and some Georgians are Element collectors.;All Element collectors are Clergys.;neutral;Entailment.
+1050;NEUTRAL;All Germans are Carpenters, and some Germans are Element collectors.;All Element collectors are Carpenters.;neutral;Contradiction.
+1051;NEUTRAL;All Germans are Cashiers, and some Germans are Element collectors.;All Element collectors are Cashiers.;neutral;Entailment.
+1052;NEUTRAL;All Germans are Clergys, and some Germans are Element collectors.;All Element collectors are Clergys.;neutral;Entailment.
+1053;NEUTRAL;All Haitians are Carpenters, and some Haitians are Element collectors.;All Element collectors are Carpenters.;neutral;Entailment.
+1054;NEUTRAL;All Haitians are Cashiers, and some Haitians are Element collectors.;All Element collectors are Cashiers.;neutral;Entailment.
+1055;NEUTRAL;All Haitians are Clergys, and some Haitians are Element collectors.;All Element collectors are Clergys.;neutral;Entailment.
+1056;NEUTRAL;All Gabonese are Carpenters, and some Gabonese are Films collectors.;All Films collectors are Carpenters.;neutral;Contradiction.
+1057;NEUTRAL;All Gabonese are Cashiers, and some Gabonese are Films collectors.;All Films collectors are Cashiers.;neutral;Entailment.
+1058;NEUTRAL;All Gabonese are Clergys, and some Gabonese are Films collectors.;All Films collectors are Clergys.;neutral;Entailment.
+1059;NEUTRAL;All Georgians are Carpenters, and some Georgians are Films collectors.;All Films collectors are Carpenters.;neutral;Contradiction.
+1060;NEUTRAL;All Georgians are Cashiers, and some Georgians are Films collectors.;All Films collectors are Cashiers.;neutral;Entailment.
+1061;NEUTRAL;All Georgians are Clergys, and some Georgians are Films collectors.;All Films collectors are Clergys.;neutral;Entailment.
+1062;NEUTRAL;All Germans are Carpenters, and some Germans are Films collectors.;All Films collectors are Carpenters.;neutral;Contradiction.
+1063;NEUTRAL;All Germans are Cashiers, and some Germans are Films collectors.;All Films collectors are Cashiers.;neutral;Entailment.
+1064;NEUTRAL;All Germans are Clergys, and some Germans are Films collectors.;All Films collectors are Clergys.;neutral;Entailment.
+1065;NEUTRAL;All Haitians are Carpenters, and some Haitians are Films collectors.;All Films collectors are Carpenters.;neutral;Contradiction.
+1066;NEUTRAL;All Haitians are Cashiers, and some Haitians are Films collectors.;All Films collectors are Cashiers.;neutral;Contradiction.
+1067;NEUTRAL;All Haitians are Clergys, and some Haitians are Films collectors.;All Films collectors are Clergys.;neutral;Entailment.
+1068;NEUTRAL;All Gabonese are Carpenters, and some Gabonese are Knife collectors.;All Knife collectors are Carpenters.;neutral;Contradiction.
+1069;NEUTRAL;All Gabonese are Cashiers, and some Gabonese are Knife collectors.;All Knife collectors are Cashiers.;neutral;Entailment.
+1070;NEUTRAL;All Gabonese are Clergys, and some Gabonese are Knife collectors.;All Knife collectors are Clergys.;neutral;Entailment.
+1071;NEUTRAL;All Georgians are Carpenters, and some Georgians are Knife collectors.;All Knife collectors are Carpenters.;neutral;Entailment.
+1072;NEUTRAL;All Georgians are Cashiers, and some Georgians are Knife collectors.;All Knife collectors are Cashiers.;neutral;Entailment.
+1073;NEUTRAL;All Georgians are Clergys, and some Georgians are Knife collectors.;All Knife collectors are Clergys.;neutral;Entailment.
+1074;NEUTRAL;All Germans are Carpenters, and some Germans are Knife collectors.;All Knife collectors are Carpenters.;neutral;Entailment.
+1075;NEUTRAL;All Germans are Cashiers, and some Germans are Knife collectors.;All Knife collectors are Cashiers.;neutral;Contradiction.
+1076;NEUTRAL;All Germans are Clergys, and some Germans are Knife collectors.;All Knife collectors are Clergys.;neutral;Entailment.
+1077;NEUTRAL;All Haitians are Carpenters, and some Haitians are Knife collectors.;All Knife collectors are Carpenters.;neutral;Contradiction.
+1078;NEUTRAL;All Haitians are Cashiers, and some Haitians are Knife collectors.;All Knife collectors are Cashiers.;neutral;Entailment.
+1079;NEUTRAL;All Haitians are Clergys, and some Haitians are Knife collectors.;All Knife collectors are Clergys.;neutral;Entailment.
+1080;BOCARDO;Some Gabonese are not Carpenters, and all Gabonese are Element collectors.;Some Element collectors are not Carpenters.;entailment;Entailment.
+1081;BOCARDO;Some Gabonese are not Cashiers, and all Gabonese are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1082;BOCARDO;Some Gabonese are not Clergys, and all Gabonese are Element collectors.;Some Element collectors are not Clergys.;entailment;Contradiction.
+1083;BOCARDO;Some Georgians are not Carpenters, and all Georgians are Element collectors.;Some Element collectors are not Carpenters.;entailment;Contradiction.
+1084;BOCARDO;Some Georgians are not Cashiers, and all Georgians are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1085;BOCARDO;Some Georgians are not Clergys, and all Georgians are Element collectors.;Some Element collectors are not Clergys.;entailment;Contradiction.
+1086;BOCARDO;Some Germans are not Carpenters, and all Germans are Element collectors.;Some Element collectors are not Carpenters.;entailment;Contradiction.
+1087;BOCARDO;Some Germans are not Cashiers, and all Germans are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1088;BOCARDO;Some Germans are not Clergys, and all Germans are Element collectors.;Some Element collectors are not Clergys.;entailment;Entailment.
+1089;BOCARDO;Some Haitians are not Carpenters, and all Haitians are Element collectors.;Some Element collectors are not Carpenters.;entailment;Entailment.
+1090;BOCARDO;Some Haitians are not Cashiers, and all Haitians are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1091;BOCARDO;Some Haitians are not Clergys, and all Haitians are Element collectors.;Some Element collectors are not Clergys.;entailment;Entailment.
+1092;BOCARDO;Some Gabonese are not Carpenters, and all Gabonese are Films collectors.;Some Films collectors are not Carpenters.;entailment;Entailment.
+1093;BOCARDO;Some Gabonese are not Cashiers, and all Gabonese are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1094;BOCARDO;Some Gabonese are not Clergys, and all Gabonese are Films collectors.;Some Films collectors are not Clergys.;entailment;Contradiction.
+1095;BOCARDO;Some Georgians are not Carpenters, and all Georgians are Films collectors.;Some Films collectors are not Carpenters.;entailment;Contradiction.
+1096;BOCARDO;Some Georgians are not Cashiers, and all Georgians are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1097;BOCARDO;Some Georgians are not Clergys, and all Georgians are Films collectors.;Some Films collectors are not Clergys.;entailment;Entailment.
+1098;BOCARDO;Some Germans are not Carpenters, and all Germans are Films collectors.;Some Films collectors are not Carpenters.;entailment;Entailment.
+1099;BOCARDO;Some Germans are not Cashiers, and all Germans are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1100;BOCARDO;Some Germans are not Clergys, and all Germans are Films collectors.;Some Films collectors are not Clergys.;entailment; contradiction.
+1101;BOCARDO;Some Haitians are not Carpenters, and all Haitians are Films collectors.;Some Films collectors are not Carpenters.;entailment;Contradiction.
+1102;BOCARDO;Some Haitians are not Cashiers, and all Haitians are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1103;BOCARDO;Some Haitians are not Clergys, and all Haitians are Films collectors.;Some Films collectors are not Clergys.;entailment;Entailment.
+1104;BOCARDO;Some Gabonese are not Carpenters, and all Gabonese are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1105;BOCARDO;Some Gabonese are not Cashiers, and all Gabonese are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1106;BOCARDO;Some Gabonese are not Clergys, and all Gabonese are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Entailment.
+1107;BOCARDO;Some Georgians are not Carpenters, and all Georgians are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1108;BOCARDO;Some Georgians are not Cashiers, and all Georgians are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1109;BOCARDO;Some Georgians are not Clergys, and all Georgians are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Contradiction.
+1110;BOCARDO;Some Germans are not Carpenters, and all Germans are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1111;BOCARDO;Some Germans are not Cashiers, and all Germans are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1112;BOCARDO;Some Germans are not Clergys, and all Germans are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Entailment.
+1113;BOCARDO;Some Haitians are not Carpenters, and all Haitians are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1114;BOCARDO;Some Haitians are not Cashiers, and all Haitians are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1115;BOCARDO;Some Haitians are not Clergys, and all Haitians are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Contradiction.
+1116;CONTRADICTION;Some Gabonese are not Carpenters, and all Gabonese are Element collectors.;All Element collectors are Carpenters.;contradiction;contradiction
+1117;CONTRADICTION;Some Gabonese are not Cashiers, and all Gabonese are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1118;CONTRADICTION;Some Gabonese are not Clergys, and all Gabonese are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1119;CONTRADICTION;Some Georgians are not Carpenters, and all Georgians are Element collectors.;All Element collectors are Carpenters.;contradiction;Contradiction.
+1120;CONTRADICTION;Some Georgians are not Cashiers, and all Georgians are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1121;CONTRADICTION;Some Georgians are not Clergys, and all Georgians are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1122;CONTRADICTION;Some Germans are not Carpenters, and all Germans are Element collectors.;All Element collectors are Carpenters.;contradiction;Contradiction.
+1123;CONTRADICTION;Some Germans are not Cashiers, and all Germans are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1124;CONTRADICTION;Some Germans are not Clergys, and all Germans are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1125;CONTRADICTION;Some Haitians are not Carpenters, and all Haitians are Element collectors.;All Element collectors are Carpenters.;contradiction;Contradiction.
+1126;CONTRADICTION;Some Haitians are not Cashiers, and all Haitians are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1127;CONTRADICTION;Some Haitians are not Clergys, and all Haitians are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1128;CONTRADICTION;Some Gabonese are not Carpenters, and all Gabonese are Films collectors.;All Films collectors are Carpenters.;contradiction;contradiction
+1129;CONTRADICTION;Some Gabonese are not Cashiers, and all Gabonese are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1130;CONTRADICTION;Some Gabonese are not Clergys, and all Gabonese are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1131;CONTRADICTION;Some Georgians are not Carpenters, and all Georgians are Films collectors.;All Films collectors are Carpenters.;contradiction;Contradiction.
+1132;CONTRADICTION;Some Georgians are not Cashiers, and all Georgians are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1133;CONTRADICTION;Some Georgians are not Clergys, and all Georgians are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1134;CONTRADICTION;Some Germans are not Carpenters, and all Germans are Films collectors.;All Films collectors are Carpenters.;contradiction;Contradiction.
+1135;CONTRADICTION;Some Germans are not Cashiers, and all Germans are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1136;CONTRADICTION;Some Germans are not Clergys, and all Germans are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1137;CONTRADICTION;Some Haitians are not Carpenters, and all Haitians are Films collectors.;All Films collectors are Carpenters.;contradiction;contradiction.
+1138;CONTRADICTION;Some Haitians are not Cashiers, and all Haitians are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1139;CONTRADICTION;Some Haitians are not Clergys, and all Haitians are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1140;CONTRADICTION;Some Gabonese are not Carpenters, and all Gabonese are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1141;CONTRADICTION;Some Gabonese are not Cashiers, and all Gabonese are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1142;CONTRADICTION;Some Gabonese are not Clergys, and all Gabonese are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1143;CONTRADICTION;Some Georgians are not Carpenters, and all Georgians are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1144;CONTRADICTION;Some Georgians are not Cashiers, and all Georgians are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1145;CONTRADICTION;Some Georgians are not Clergys, and all Georgians are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1146;CONTRADICTION;Some Germans are not Carpenters, and all Germans are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1147;CONTRADICTION;Some Germans are not Cashiers, and all Germans are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1148;CONTRADICTION;Some Germans are not Clergys, and all Germans are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1149;CONTRADICTION;Some Haitians are not Carpenters, and all Haitians are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1150;CONTRADICTION;Some Haitians are not Cashiers, and all Haitians are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1151;CONTRADICTION;Some Haitians are not Clergys, and all Haitians are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1152;NEUTRAL;Some Gabonese are not Carpenters, and some Gabonese are Element collectors.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+1153;NEUTRAL;Some Gabonese are not Cashiers, and some Gabonese are Element collectors.;Some Element collectors are not Cashiers.;neutral;Contradiction.
+1154;NEUTRAL;Some Gabonese are not Clergys, and some Gabonese are Element collectors.;Some Element collectors are not Clergys.;neutral;Neutral.
+1155;NEUTRAL;Some Georgians are not Carpenters, and some Georgians are Element collectors.;Some Element collectors are not Carpenters.;neutral;Contradiction.
+1156;NEUTRAL;Some Georgians are not Cashiers, and some Georgians are Element collectors.;Some Element collectors are not Cashiers.;neutral;Neutral.
+1157;NEUTRAL;Some Georgians are not Clergys, and some Georgians are Element collectors.;Some Element collectors are not Clergys.;neutral;Entailment.
+1158;NEUTRAL;Some Germans are not Carpenters, and some Germans are Element collectors.;Some Element collectors are not Carpenters.;neutral;Entailment.
+1159;NEUTRAL;Some Germans are not Cashiers, and some Germans are Element collectors.;Some Element collectors are not Cashiers.;neutral;Entailment.
+1160;NEUTRAL;Some Germans are not Clergys, and some Germans are Element collectors.;Some Element collectors are not Clergys.;neutral;Neutral.
+1161;NEUTRAL;Some Haitians are not Carpenters, and some Haitians are Element collectors.;Some Element collectors are not Carpenters.;neutral;Neutral.
+1162;NEUTRAL;Some Haitians are not Cashiers, and some Haitians are Element collectors.;Some Element collectors are not Cashiers.;neutral;Neutral.
+1163;NEUTRAL;Some Haitians are not Clergys, and some Haitians are Element collectors.;Some Element collectors are not Clergys.;neutral;Contradiction.
+1164;NEUTRAL;Some Gabonese are not Carpenters, and some Gabonese are Films collectors.;Some Films collectors are not Carpenters.;neutral;Neutral.
+1165;NEUTRAL;Some Gabonese are not Cashiers, and some Gabonese are Films collectors.;Some Films collectors are not Cashiers.;neutral;Entailment.
+1166;NEUTRAL;Some Gabonese are not Clergys, and some Gabonese are Films collectors.;Some Films collectors are not Clergys.;neutral;Contradiction.
+1167;NEUTRAL;Some Georgians are not Carpenters, and some Georgians are Films collectors.;Some Films collectors are not Carpenters.;neutral;Entailment.
+1168;NEUTRAL;Some Georgians are not Cashiers, and some Georgians are Films collectors.;Some Films collectors are not Cashiers.;neutral;Entailment.
+1169;NEUTRAL;Some Georgians are not Clergys, and some Georgians are Films collectors.;Some Films collectors are not Clergys.;neutral;Entailment.
+1170;NEUTRAL;Some Germans are not Carpenters, and some Germans are Films collectors.;Some Films collectors are not Carpenters.;neutral;Neutral.
+1171;NEUTRAL;Some Germans are not Cashiers, and some Germans are Films collectors.;Some Films collectors are not Cashiers.;neutral;Entailment.
+1172;NEUTRAL;Some Germans are not Clergys, and some Germans are Films collectors.;Some Films collectors are not Clergys.;neutral;Entailment.
+1173;NEUTRAL;Some Haitians are not Carpenters, and some Haitians are Films collectors.;Some Films collectors are not Carpenters.;neutral;Neutral.
+1174;NEUTRAL;Some Haitians are not Cashiers, and some Haitians are Films collectors.;Some Films collectors are not Cashiers.;neutral;Entailment.
+1175;NEUTRAL;Some Haitians are not Clergys, and some Haitians are Films collectors.;Some Films collectors are not Clergys.;neutral;Contradiction.
+1176;NEUTRAL;Some Gabonese are not Carpenters, and some Gabonese are Knife collectors.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+1177;NEUTRAL;Some Gabonese are not Cashiers, and some Gabonese are Knife collectors.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+1178;NEUTRAL;Some Gabonese are not Clergys, and some Gabonese are Knife collectors.;Some Knife collectors are not Clergys.;neutral;Neutral.
+1179;NEUTRAL;Some Georgians are not Carpenters, and some Georgians are Knife collectors.;Some Knife collectors are not Carpenters.;neutral;Neutral.
+1180;NEUTRAL;Some Georgians are not Cashiers, and some Georgians are Knife collectors.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+1181;NEUTRAL;Some Georgians are not Clergys, and some Georgians are Knife collectors.;Some Knife collectors are not Clergys.;neutral;Contradiction.
+1182;NEUTRAL;Some Germans are not Carpenters, and some Germans are Knife collectors.;Some Knife collectors are not Carpenters.;neutral;Entailment.
+1183;NEUTRAL;Some Germans are not Cashiers, and some Germans are Knife collectors.;Some Knife collectors are not Cashiers.;neutral;Entailment.
+1184;NEUTRAL;Some Germans are not Clergys, and some Germans are Knife collectors.;Some Knife collectors are not Clergys.;neutral;Entailment.
+1185;NEUTRAL;Some Haitians are not Carpenters, and some Haitians are Knife collectors.;Some Knife collectors are not Carpenters.;neutral;Neutral.
+1186;NEUTRAL;Some Haitians are not Cashiers, and some Haitians are Knife collectors.;Some Knife collectors are not Cashiers.;neutral;Neutral.
+1187;NEUTRAL;Some Haitians are not Clergys, and some Haitians are Knife collectors.;Some Knife collectors are not Clergys.;neutral;Neutral.
+1188;FERISON;Gabonese are not Carpenters, and some Gabonese are Element collectors.;Some Element collectors are not Carpenters.;entailment;Entailment.
+1189;FERISON;Gabonese are not Cashiers, and some Gabonese are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1190;FERISON;Gabonese are not Clergys, and some Gabonese are Element collectors.;Some Element collectors are not Clergys.;entailment;Entailment.
+1191;FERISON;Georgians are not Carpenters, and some Georgians are Element collectors.;Some Element collectors are not Carpenters.;entailment;Entailment.
+1192;FERISON;Georgians are not Cashiers, and some Georgians are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1193;FERISON;Georgians are not Clergys, and some Georgians are Element collectors.;Some Element collectors are not Clergys.;entailment;Entailment.
+1194;FERISON;Germans are not Carpenters, and some Germans are Element collectors.;Some Element collectors are not Carpenters.;entailment;Entailment.
+1195;FERISON;Germans are not Cashiers, and some Germans are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1196;FERISON;Germans are not Clergys, and some Germans are Element collectors.;Some Element collectors are not Clergys.;entailment;Entailment.
+1197;FERISON;Haitians are not Carpenters, and some Haitians are Element collectors.;Some Element collectors are not Carpenters.;entailment;Entailment.
+1198;FERISON;Haitians are not Cashiers, and some Haitians are Element collectors.;Some Element collectors are not Cashiers.;entailment;Entailment.
+1199;FERISON;Haitians are not Clergys, and some Haitians are Element collectors.;Some Element collectors are not Clergys.;entailment;Entailment.
+1200;FERISON;Gabonese are not Carpenters, and some Gabonese are Films collectors.;Some Films collectors are not Carpenters.;entailment;Entailment.
+1201;FERISON;Gabonese are not Cashiers, and some Gabonese are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1202;FERISON;Gabonese are not Clergys, and some Gabonese are Films collectors.;Some Films collectors are not Clergys.;entailment;Entailment.
+1203;FERISON;Georgians are not Carpenters, and some Georgians are Films collectors.;Some Films collectors are not Carpenters.;entailment;Entailment.
+1204;FERISON;Georgians are not Cashiers, and some Georgians are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1205;FERISON;Georgians are not Clergys, and some Georgians are Films collectors.;Some Films collectors are not Clergys.;entailment;Entailment.
+1206;FERISON;Germans are not Carpenters, and some Germans are Films collectors.;Some Films collectors are not Carpenters.;entailment;Entailment.
+1207;FERISON;Germans are not Cashiers, and some Germans are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1208;FERISON;Germans are not Clergys, and some Germans are Films collectors.;Some Films collectors are not Clergys.;entailment;Entailment.
+1209;FERISON;Haitians are not Carpenters, and some Haitians are Films collectors.;Some Films collectors are not Carpenters.;entailment;Entailment.
+1210;FERISON;Haitians are not Cashiers, and some Haitians are Films collectors.;Some Films collectors are not Cashiers.;entailment;Entailment.
+1211;FERISON;Haitians are not Clergys, and some Haitians are Films collectors.;Some Films collectors are not Clergys.;entailment;Entailment.
+1212;FERISON;Gabonese are not Carpenters, and some Gabonese are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1213;FERISON;Gabonese are not Cashiers, and some Gabonese are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1214;FERISON;Gabonese are not Clergys, and some Gabonese are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Entailment.
+1215;FERISON;Georgians are not Carpenters, and some Georgians are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1216;FERISON;Georgians are not Cashiers, and some Georgians are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1217;FERISON;Georgians are not Clergys, and some Georgians are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Entailment.
+1218;FERISON;Germans are not Carpenters, and some Germans are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1219;FERISON;Germans are not Cashiers, and some Germans are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1220;FERISON;Germans are not Clergys, and some Germans are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Entailment.
+1221;FERISON;Haitians are not Carpenters, and some Haitians are Knife collectors.;Some Knife collectors are not Carpenters.;entailment;Entailment.
+1222;FERISON;Haitians are not Cashiers, and some Haitians are Knife collectors.;Some Knife collectors are not Cashiers.;entailment;Entailment.
+1223;FERISON;Haitians are not Clergys, and some Haitians are Knife collectors.;Some Knife collectors are not Clergys.;entailment;Entailment.
+1224;CONTRADICTION;Gabonese are not Carpenters, and some Gabonese are Element collectors.;All Element collectors are Carpenters.;contradiction;contradiction.
+1225;CONTRADICTION;Gabonese are not Cashiers, and some Gabonese are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1226;CONTRADICTION;Gabonese are not Clergys, and some Gabonese are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1227;CONTRADICTION;Georgians are not Carpenters, and some Georgians are Element collectors.;All Element collectors are Carpenters.;contradiction;Contradiction.
+1228;CONTRADICTION;Georgians are not Cashiers, and some Georgians are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1229;CONTRADICTION;Georgians are not Clergys, and some Georgians are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1230;CONTRADICTION;Germans are not Carpenters, and some Germans are Element collectors.;All Element collectors are Carpenters.;contradiction;Contradiction.
+1231;CONTRADICTION;Germans are not Cashiers, and some Germans are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1232;CONTRADICTION;Germans are not Clergys, and some Germans are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1233;CONTRADICTION;Haitians are not Carpenters, and some Haitians are Element collectors.;All Element collectors are Carpenters.;contradiction;Contradiction.
+1234;CONTRADICTION;Haitians are not Cashiers, and some Haitians are Element collectors.;All Element collectors are Cashiers.;contradiction;Contradiction.
+1235;CONTRADICTION;Haitians are not Clergys, and some Haitians are Element collectors.;All Element collectors are Clergys.;contradiction;Contradiction.
+1236;CONTRADICTION;Gabonese are not Carpenters, and some Gabonese are Films collectors.;All Films collectors are Carpenters.;contradiction;Contradiction.
+1237;CONTRADICTION;Gabonese are not Cashiers, and some Gabonese are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1238;CONTRADICTION;Gabonese are not Clergys, and some Gabonese are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1239;CONTRADICTION;Georgians are not Carpenters, and some Georgians are Films collectors.;All Films collectors are Carpenters.;contradiction;Contradiction.
+1240;CONTRADICTION;Georgians are not Cashiers, and some Georgians are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1241;CONTRADICTION;Georgians are not Clergys, and some Georgians are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1242;CONTRADICTION;Germans are not Carpenters, and some Germans are Films collectors.;All Films collectors are Carpenters.;contradiction;Contradiction.
+1243;CONTRADICTION;Germans are not Cashiers, and some Germans are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1244;CONTRADICTION;Germans are not Clergys, and some Germans are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1245;CONTRADICTION;Haitians are not Carpenters, and some Haitians are Films collectors.;All Films collectors are Carpenters.;contradiction;Contradiction.
+1246;CONTRADICTION;Haitians are not Cashiers, and some Haitians are Films collectors.;All Films collectors are Cashiers.;contradiction;Contradiction.
+1247;CONTRADICTION;Haitians are not Clergys, and some Haitians are Films collectors.;All Films collectors are Clergys.;contradiction;Contradiction.
+1248;CONTRADICTION;Gabonese are not Carpenters, and some Gabonese are Knife collectors.;All Knife collectors are Carpenters.;contradiction;contradiction.
+1249;CONTRADICTION;Gabonese are not Cashiers, and some Gabonese are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1250;CONTRADICTION;Gabonese are not Clergys, and some Gabonese are Knife collectors.;All Knife collectors are Clergys.;contradiction;contradiction.
+1251;CONTRADICTION;Georgians are not Carpenters, and some Georgians are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1252;CONTRADICTION;Georgians are not Cashiers, and some Georgians are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1253;CONTRADICTION;Georgians are not Clergys, and some Georgians are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1254;CONTRADICTION;Germans are not Carpenters, and some Germans are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1255;CONTRADICTION;Germans are not Cashiers, and some Germans are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1256;CONTRADICTION;Germans are not Clergys, and some Germans are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1257;CONTRADICTION;Haitians are not Carpenters, and some Haitians are Knife collectors.;All Knife collectors are Carpenters.;contradiction;Contradiction.
+1258;CONTRADICTION;Haitians are not Cashiers, and some Haitians are Knife collectors.;All Knife collectors are Cashiers.;contradiction;Contradiction.
+1259;CONTRADICTION;Haitians are not Clergys, and some Haitians are Knife collectors.;All Knife collectors are Clergys.;contradiction;Contradiction.
+1260;NEUTRAL;Some Gabonese are not Carpenters, and some Gabonese are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+1261;NEUTRAL;Some Gabonese are not Cashiers, and some Gabonese are Element collectors.;Some Element collectors are Cashiers.;neutral;Neutral.
+1262;NEUTRAL;Some Gabonese are not Clergys, and some Gabonese are Element collectors.;Some Element collectors are Clergys.;neutral;Neutral.
+1263;NEUTRAL;Some Georgians are not Carpenters, and some Georgians are Element collectors.;Some Element collectors are Carpenters.;neutral;Contradiction.
+1264;NEUTRAL;Some Georgians are not Cashiers, and some Georgians are Element collectors.;Some Element collectors are Cashiers.;neutral;Contradiction.
+1265;NEUTRAL;Some Georgians are not Clergys, and some Georgians are Element collectors.;Some Element collectors are Clergys.;neutral;Contradiction.
+1266;NEUTRAL;Some Germans are not Carpenters, and some Germans are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+1267;NEUTRAL;Some Germans are not Cashiers, and some Germans are Element collectors.;Some Element collectors are Cashiers.;neutral;Neutral.
+1268;NEUTRAL;Some Germans are not Clergys, and some Germans are Element collectors.;Some Element collectors are Clergys.;neutral;Contradiction.
+1269;NEUTRAL;Some Haitians are not Carpenters, and some Haitians are Element collectors.;Some Element collectors are Carpenters.;neutral;Neutral.
+1270;NEUTRAL;Some Haitians are not Cashiers, and some Haitians are Element collectors.;Some Element collectors are Cashiers.;neutral;Neutral.
+1271;NEUTRAL;Some Haitians are not Clergys, and some Haitians are Element collectors.;Some Element collectors are Clergys.;neutral;Neutral.
+1272;NEUTRAL;Some Gabonese are not Carpenters, and some Gabonese are Films collectors.;Some Films collectors are Carpenters.;neutral;Contradiction.
+1273;NEUTRAL;Some Gabonese are not Cashiers, and some Gabonese are Films collectors.;Some Films collectors are Cashiers.;neutral;Contradiction.
+1274;NEUTRAL;Some Gabonese are not Clergys, and some Gabonese are Films collectors.;Some Films collectors are Clergys.;neutral;Neutral.
+1275;NEUTRAL;Some Georgians are not Carpenters, and some Georgians are Films collectors.;Some Films collectors are Carpenters.;neutral;Contradiction.
+1276;NEUTRAL;Some Georgians are not Cashiers, and some Georgians are Films collectors.;Some Films collectors are Cashiers.;neutral;Neutral.
+1277;NEUTRAL;Some Georgians are not Clergys, and some Georgians are Films collectors.;Some Films collectors are Clergys.;neutral;Contradiction.
+1278;NEUTRAL;Some Germans are not Carpenters, and some Germans are Films collectors.;Some Films collectors are Carpenters.;neutral;Contradiction.
+1279;NEUTRAL;Some Germans are not Cashiers, and some Germans are Films collectors.;Some Films collectors are Cashiers.;neutral;Contradiction.
+1280;NEUTRAL;Some Germans are not Clergys, and some Germans are Films collectors.;Some Films collectors are Clergys.;neutral;Contradiction.
+1281;NEUTRAL;Some Haitians are not Carpenters, and some Haitians are Films collectors.;Some Films collectors are Carpenters.;neutral;Neutral.
+1282;NEUTRAL;Some Haitians are not Cashiers, and some Haitians are Films collectors.;Some Films collectors are Cashiers.;neutral;Neutral.
+1283;NEUTRAL;Some Haitians are not Clergys, and some Haitians are Films collectors.;Some Films collectors are Clergys.;neutral;Neutral.
+1284;NEUTRAL;Some Gabonese are not Carpenters, and some Gabonese are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Contradiction.
+1285;NEUTRAL;Some Gabonese are not Cashiers, and some Gabonese are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Contradiction.
+1286;NEUTRAL;Some Gabonese are not Clergys, and some Gabonese are Knife collectors.;Some Knife collectors are Clergys.;neutral;Neutral.
+1287;NEUTRAL;Some Georgians are not Carpenters, and some Georgians are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+1288;NEUTRAL;Some Georgians are not Cashiers, and some Georgians are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Neutral.
+1289;NEUTRAL;Some Georgians are not Clergys, and some Georgians are Knife collectors.;Some Knife collectors are Clergys.;neutral;Neutral.
+1290;NEUTRAL;Some Germans are not Carpenters, and some Germans are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+1291;NEUTRAL;Some Germans are not Cashiers, and some Germans are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Neutral.
+1292;NEUTRAL;Some Germans are not Clergys, and some Germans are Knife collectors.;Some Knife collectors are Clergys.;neutral;Neutral.
+1293;NEUTRAL;Some Haitians are not Carpenters, and some Haitians are Knife collectors.;Some Knife collectors are Carpenters.;neutral;Neutral.
+1294;NEUTRAL;Some Haitians are not Cashiers, and some Haitians are Knife collectors.;Some Knife collectors are Cashiers.;neutral;Neutral.
+1295;NEUTRAL;Some Haitians are not Clergys, and some Haitians are Knife collectors.;Some Knife collectors are Clergys.;neutral;Neutral.
