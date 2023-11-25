@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 # TODO fix this path somehow
 model = AutoModelForSequenceClassification.from_pretrained(
-    r"C:\Users\john1\Desktop\Work\DS Chair\Artist\Fine tuning transformers\minilm2_ft\minilm2_512padding_1e7lr_32batchsize_1epochs"
+    r"ft_model_weights\minilm2_512padding_1e7lr_32batchsize_1epochs"
 )
 tokenizer = AutoTokenizer.from_pretrained('cross-encoder/nli-MiniLM2-L6-H768')
 
