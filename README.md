@@ -15,7 +15,7 @@ Contents of this README:
 
 **Directories**
 
-* `Data/` -> Contains the original Argument Annotated Essays (AAE, see [Databases](#databases)), as well as the reformed Feedback prize database with 1k random sentence pairs, 1k random AAE sentence pairs and the RTE database.
+* `Data/` -> Contains the original Argument Annotated Essays (AAE, see [Databases](#databases)), as well as the reformed Feedback prize database (see [Databases](#databases)) with 1k random sentence pairs, 1k random AAE sentence pairs and the RTE database.
 
 * `Output/` -> Contains all the results from our evaluation runs. Files that are in .csv format are considered 'cleaned' while pickle files contain the raw data structures of the evaluation runs.
 
@@ -27,7 +27,7 @@ Contents of this README:
 
 **Files**
 
-* `(evaluation)_chatGPT.py` -> This file defines the API call and iteration through the data required to process them into adequate prompts. Chat GPT likes to also break the label modelling, thus this script also cleans the output labels (which will almost certainly require manual work upon re-run of this file to adjust the output labels into the accepted label mapping).
+* `(evaluation)_chatGPT.py` -> This file defines the API call and iteration through the data required to process them into adequate prompts. The script also cleans the output labels.
 
 * `metrics.py` -> Contains the script originally used to derive the different results for different evaluation configurations.
 
@@ -95,7 +95,9 @@ Feedback prize is dataset provided by kaggle and can be found [here](https://www
 
 ## Note
 
-This repository is provided to **view** our existing results as well as the methods and scripts used. At the time of development, having scripts that automate training, predictions, metrics and so on was not the aim. Thus, if your goal is to reproduce the results by re-running all the codes, this repository contains the adequate scripts but not the connections. In other words, for anything other than viewing the pre-existing results, it is recommended to write scripts of your own that re-use components of this repository.
+Evaluation was an iterative process, thus we didn't consider developing a system for evaluations. Regardless, we provide all scripts, model weights and data required for evaluations in this repository, along with the results of our actual runs.
+
+That is also to say, that due to variability in the different labeling schemes, the scripts vary accordingly. But interfaces to the models (except chatGPT which requires an account) are all provided under the `prediction_models` folder.
 
 ## Citation
 
