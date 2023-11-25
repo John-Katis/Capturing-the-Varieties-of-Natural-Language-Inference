@@ -1,6 +1,6 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
-# TODO fix this path somehow
+
 model = AutoModelForSequenceClassification.from_pretrained(
     r"ft_model_weights\deberta_512padding_1e7lr_8batchsize_1epochs"
 )
