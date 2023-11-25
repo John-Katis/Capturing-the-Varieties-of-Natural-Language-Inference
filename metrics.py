@@ -1,15 +1,30 @@
+"""
+This file and the mappings were used to clean the outputs and derive metrics initially.
+
+They are included as part of the original work and they are not needed (if new predictions are not derived)
+
+
+Usage here is complicated as every different model used or every different dataset requires
+a different means of cleaning and application of all the correct mappings with care not to
+distort the results. Our results for the paper can mostly be found in the "Output" folder
+and it only required to use sklearn to re-derive our metrics.
+"""
+
 import pandas as pd
 import pickle
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
-##### ##### CLEANING THE DATA FOR METRICS AND SAVING THEM!! ##### #####
+##### ##### MAPPINGS FOR chat-GPT LABELS ##### #####
 
 mapping_2304 = {
-    "neutral": "neutral",
+    "neutral": "neutral", # this is here for completeness
     "entailment": "entails",
     "contradiction": "contradicts"
 }
 
+
+### This is used for the chat-GPT output labels and is modeled to account for all 
+### keys found in our specific queries!!!!
 AAE_mapping = {
     "neutral.": "neutral",
     "neutral": "neutral",
@@ -42,7 +57,7 @@ eval2304_mapping = {
 }
 
 #o_data = pd.read_csv(
-#    r"C:\Users\john1\PycharmProjects\chatGPT_test\Output\AAE_1k_sample_with_predictions.csv",
+#    r"Output\AAE_1k_sample_with_predictions.csv",
 #    encoding='UTF-8', sep=';', index_col=0
 #)
 
@@ -57,7 +72,7 @@ eval2304_mapping = {
 #print(set(df_copy['predicted_relation'].tolist()))
 
 #df_copy.to_csv(
-#    r"C:\Users\john1\PycharmProjects\chatGPT_test\Output\(clean)AAE_1k_sample_with_predictions.csv",
+#    r"Output\(clean)AAE_1k_sample_with_predictions.csv",
 #    encoding='UTF-8',
 #    sep=';'
 #)
@@ -66,7 +81,7 @@ eval2304_mapping = {
 
 # add index_col=1
 o_data = pd.read_csv(
-    r"C:\Users\john1\PycharmProjects\chatGPT_test\Output\ft_miniLM2\interim_evaluation\true_and_pred_relations(RTE_512p_1e7lr_32bs_1e).csv",
+    r"Output\ft_miniLM2\interim_evaluation\true_and_pred_relations(RTE_512p_1e7lr_32bs_1e).csv",
     encoding='UTF-8', sep=';'
 )
 
@@ -75,8 +90,6 @@ o_data = o_data.dropna()
 
 predicted_relations = o_data['pred_label'].tolist()
 true_relations = o_data['true_label'].tolist()
-
-#true_relations = [mapping_2304[x] for x in true_relations]
 
 #print(set(true_relations))
 
