@@ -4,3 +4,6 @@
 # Ignore __pycache__
 **/*.pyc
 **/__pycache__
+
+# Ignore .idea configurations
+/*.idea
