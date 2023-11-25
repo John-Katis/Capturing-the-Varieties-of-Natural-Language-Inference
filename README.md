@@ -71,7 +71,7 @@ All the rest of the components are connected and can be called in newly defined 
 
 ## Databases
 
-*Some data for the datasets, and all AAE data are contained under the `Data` folder*.
+*The datasets below can be found under the `Data` folder*.
 
 ### Argument Annotated Essays (AAE)
 
