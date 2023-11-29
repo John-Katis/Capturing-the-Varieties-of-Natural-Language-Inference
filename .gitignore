@@ -4,3 +4,6 @@
 
 # Ignore .idea configurations
 /*.idea
+
+# Ignore model weights
+/ft_model_weights
